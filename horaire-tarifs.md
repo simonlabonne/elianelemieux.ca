@@ -1,5 +1,6 @@
 ---
 title: Horaire et tarifs
+hide_footer: true
 ---
 
 ## Horaire
