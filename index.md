@@ -12,7 +12,7 @@ Convaincue de l’interrelation entre la santé physique et psychique, l’alime
 
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
-<a class="button is-primary" href="/horaire-tarifs">Consulter mon horaire et mes tarifs</a>
+<a class="button is-primary" href="https://simonlabonne.github.io/elianelemieux.ca/horaire-tarifs">Consulter mon horaire et mes tarifs</a>
 
 ## Formations
 Plus de 4000 heures de formation en santé naturelle :
