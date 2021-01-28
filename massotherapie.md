@@ -1,4 +1,7 @@
-# Massothérapie
+---
+title: Massothérapie
+---
+
 La massothérapie est une thérapie par le toucher ayant une action bénéfique tant au niveau physique que psychique.
 Elle est profitable autant en prévention que pour maintenir l’équilibre ou pour aider à rétablir un déséquilibre (douleurs ou tensions musculaires, perte d’amplitude de mouvement, stress, etc.).
 
