@@ -4,6 +4,8 @@ hide_footer: true
 hide_hero: true
 ---
 
+# Horaire et tarifs
+
 ## Horaire
 <table>
   <tr>
