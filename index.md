@@ -1,6 +1,8 @@
 ---
-title: Éliane Lemieux, masso-kinésithérapie et herboristerie-naturopathie
+title: Éliane Lemieux
+subtitle: Masso-kinésithérapie et herboristerie-naturopathie
 hide_footer: true
+layout: page
 ---
 
 ## À propos
@@ -10,7 +12,7 @@ Convaincue de l’interrelation entre la santé physique et psychique, l’alime
 
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
-[Consulter mon horaire et mes tarifs](https://simonlabonne.github.io/elianelemieux.ca/horaire-tarifs)
+<a class="button is-primary" href="/horaire-tarifs">Consulter mon horaire et mes tarifs</a>
 
 ## Formations
 Plus de 4000 heures de formation en santé naturelle :
