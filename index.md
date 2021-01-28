@@ -1,5 +1,6 @@
 ---
 title: Éliane Lemieux, masso-kinésithérapie et herboristerie-naturopathie
+hide_footer: true
 ---
 
 ## À propos
