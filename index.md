@@ -1,4 +1,6 @@
-# Éliane Lemieux, [masso-kinésithérapie](https://simonlabonne.github.io/elianelemieux.ca/massotherapie) et [herboristerie-naturopathie](https://simonlabonne.github.io/elianelemieux.ca/herboristerie-naturopathie)
+---
+title: Éliane Lemieux, [masso-kinésithérapie et [herboristerie-naturopathie
+---
 
 ## À propos
 Thérapeute depuis 2001, j’accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité. Mon approche est axée sur le respect, l’écoute, l’honnêteté et l’expérience. Un juste mélange entre le ressenti et la science.
