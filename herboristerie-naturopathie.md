@@ -1,4 +1,7 @@
-# Herboristerie-naturopathie
+---
+title: Herboristerie-naturopathie
+---
+
 L’herboristerie est une médecine alternative et ancestrale utilisant les plantes, arbres et champignons médicinaux pour soutenir et retrouver la santé. 
 
 La naturopathie, quant à elle, est une médecine visant à maintenir et/ou rétablir l’équilibre et la santé de façon globale par des moyens naturels.
