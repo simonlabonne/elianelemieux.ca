@@ -1,6 +1,7 @@
 ---
 title: Massothérapie
 hide_footer: true
+hide_hero: true
 ---
 
 La massothérapie est une thérapie par le toucher ayant une action bénéfique tant au niveau physique que psychique.
