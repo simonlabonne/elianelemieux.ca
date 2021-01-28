@@ -1,5 +1,5 @@
 ---
-title: Éliane Lemieux, [masso-kinésithérapie et [herboristerie-naturopathie
+title: Éliane Lemieux, masso-kinésithérapie et herboristerie-naturopathie
 ---
 
 ## À propos
