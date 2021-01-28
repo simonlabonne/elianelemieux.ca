@@ -1,4 +1,6 @@
-# Horaire et tarifs
+---
+title: Horaire et tarifs
+---
 
 ## Horaire
 <table>
