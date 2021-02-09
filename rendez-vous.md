@@ -6,8 +6,8 @@ hide_hero: true
 
 # Prendre rendez-vous
 <p>
-  <i class="fas fa-phone-alt"></i><a href="tel:514-299-3617">514-299-3617</a><br>
-  <i class="fas fa-envelope"></i><a href="mailto:lemieuxeliane@yahoo.ca">lemieuxeliane@yahoo.ca</a>
+  <a href="tel:514-299-3617"><i class="fas fa-phone-alt"></i> 514-299-3617</a><br>
+  <a href="mailto:lemieuxeliane@yahoo.ca"><i class="fas fa-envelope"></i> lemieuxeliane@yahoo.ca</a>
 </p>
 ## Horaire
 <table>
