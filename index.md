@@ -4,4 +4,6 @@ subtitle: Masso-kinésithérapeute et herboriste-naturopathe
 layout: page
 showcase: homepage_showcase
 show_sidebar: false
+hide_footer: true
+hide_hero: true
 ---
