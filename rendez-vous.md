@@ -1,11 +1,14 @@
 ---
-title: Horaire et tarifs
+title: Prendre rendez-vous
 hide_footer: true
 hide_hero: true
 ---
 
-# Horaire et tarifs
-
+# Prendre rendez-vous
+<p>
+  <a href="tel:514-299-3617">514-299-3617</a><br>
+  <a href="mailto:lemieuxeliane@yahoo.ca">lemieuxeliane@yahoo.ca</a>
+</p>
 ## Horaire
 <table>
   <tr>
