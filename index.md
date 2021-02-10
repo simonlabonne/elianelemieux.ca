@@ -2,7 +2,7 @@
 title: Éliane Lemieux
 subtitle: Masso-kinésithérapeute et herboriste-naturopathe
 layout: page
-hero_height: is-large
+hero_height: is-fullheight
 image: /img/eliane-lemieux.jpg
 image_ratio: is-16by9
 hero_link: https://simonlabonne.github.io/elianelemieux.ca/a-propos
