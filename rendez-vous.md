@@ -10,7 +10,7 @@ hide_hero: true
   <a href="mailto:info@elianelemieux.ca"><i class="fas fa-envelope"></i> info@elianelemieux.ca</a>
 </p>
 <p>
-  10574-A (porte à droite), rue De Lille<br>
+  10574-A (porte de droite), rue De Lille<br>
   Montréal (Québec)&nbsp;&nbsp;H2B 2R5
 </p>
 ## Horaire
