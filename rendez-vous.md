@@ -9,6 +9,10 @@ hide_hero: true
   <a href="tel:514-299-3617"><i class="fas fa-phone-alt"></i> 514-299-3617</a><br>
   <a href="mailto:info@elianelemieux.ca"><i class="fas fa-envelope"></i> info@elianelemieux.ca</a>
 </p>
+<p>
+  10574-A (porte à droite), rue De Lille<br>
+  Montréal (Québec)&nbsp;&nbsp;H2B 2R5
+</p>
 ## Horaire
 <table>
   <tr>
