@@ -1,2 +1,12 @@
+---
+title: Elianelemieux.Ca
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 remote_theme: chrisrhymes/bulma-clean-theme
-theme_color: 'rgb(91, 106, 77)'
+theme_color: rgb(91, 106, 77)
