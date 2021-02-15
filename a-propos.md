@@ -13,9 +13,9 @@ Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et ch
 ## Formations
 Plus de 4000 heures de formation en santé naturelle :
 
-- Diplôme en [masso-kinésithérapie](https://simonlabonne.github.io/elianelemieux.ca/massotherapie)
+- Diplôme en [masso-kinésithérapie](/massotherapie)
 (Formation chez kiné-concept)
-- Diplôme en [herboristerie-naturopathie](https://simonlabonne.github.io/elianelemieux.ca/herboristerie-naturopathie)
+- Diplôme en [herboristerie-naturopathie](/herboristerie-naturopathie)
 (Formation de thérapeute à l’Herbothèque) 
 - Formation continue depuis mes débuts :
   - Massages pour femmes enceintes 
