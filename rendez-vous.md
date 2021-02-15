@@ -18,7 +18,7 @@ Montréal (Québec)  H2B 2R5
 
 ## Horaire
 
-<table class="table">
+<table class="table is-striped">
 <tr>
 <td>Lundi</td>
 <td>9 h à 14 h 30</td>
@@ -47,7 +47,7 @@ Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en
 
 ### Massothérapie
 
-<table class="table">
+<table class="table is-striped">
 <tr>
 <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
 <td>100 $</td>
@@ -74,7 +74,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 
 ### Herboristerie
 
-<table class="table">
+<table class="table is-striped">
 <tr>
 <td>1<sup>re</sup> rencontre</td>
 <td>145 $</td>
