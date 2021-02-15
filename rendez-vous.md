@@ -73,29 +73,12 @@ Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en
 Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 
 ### Herboristerie
-
-<table class="table is-striped">
-<tr>
-<td>1<sup>re</sup> rencontre</td>
-<td>145 $</td>
-</tr>
-<tr>
-<td>30 minutes</td>
-<td>55 $</td>
-</tr>
-<tr>
-<td>60 minutes</td>
-<td>85 $</td>
-</tr>
-<tr>
-<td>75 minutes</td>
-<td>100 $</td>
-</tr>
-<tr>
-<td>90 minutes</td>
-<td>115 $</td>
-</tr>
-</table>
+|---|---:|
+| 1<sup>re</sup> rencontre | 145 $ |
+| 30 minutes | 55 $ |
+| 60 minutes | 85 $ |
+| 75 minutes | 100 $ |
+| 90 minutes | 115 $ | 
 
 Reçu en naturopathie (A.N.P.Q.)
 
