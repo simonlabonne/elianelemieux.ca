@@ -93,6 +93,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 <td>90 minutes</td>
 <td>115 $</td>
 </tr>
+</table>
 
 Reçu en naturopathie (A.N.P.Q.)
 
