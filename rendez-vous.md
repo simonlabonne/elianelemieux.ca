@@ -85,7 +85,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 <tr>
 <td>60 minutes</td>
 <td>85 $</td>
-<tr>
+</tr>
 <td>75 minutes</td>
 <td>100 $</td>
 </tr>
