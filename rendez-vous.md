@@ -50,23 +50,23 @@ Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en
 <table class="table is-striped">
 <tr>
 <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-<td>100 $</td>
+<td class="has-text-right">100 $</td>
 </tr>
 <tr>
 <td>30 minutes</td>
-<td>55 $</td>
+<td class="has-text-right">55 $</td>
 </tr>
 <tr>
 <td>60 minutes</td>
-<td>85 $</td>
+<td class="has-text-right">85 $</td>
 </tr>
 <tr>
 <td>75 minutes</td>
-<td>100 $</td>
+<td class="has-text-right">100 $</td>
 </tr>
 <tr>
 <td>90 minutes</td>
-<td>115 $</td>
+<td class="has-text-right">115 $</td>
 </tr>
 </table>
 
@@ -76,23 +76,23 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 <table class="table is-striped">
 <tr>
 <td>1<sup>re</sup> rencontre</td>
-<td>145 $</td>
+<td class="has-text-right">145 $</td>
 </tr>
 <tr>
 <td>30 minutes</td>
-<td>55 $</td>
+<td class="has-text-right">55 $</td>
 </tr>
 <tr>
 <td>60 minutes</td>
-<td>85 $</td>
+<td class="has-text-right">85 $</td>
 </tr>
 <tr>
 <td>75 minutes</td>
-<td>100 $</td>
+<td class="has-text-right">100 $</td>
 </tr>
 <tr>
 <td>90 minutes</td>
-<td>115 $</td>
+<td class="has-text-right">115 $</td>
 </tr>
 </table>
 
