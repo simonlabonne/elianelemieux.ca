@@ -73,6 +73,7 @@ Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en
 Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 
 ### Herboristerie
+| | |
 |---|---:|
 | 1<sup>re</sup> rencontre | 145 $ |
 | 30 minutes | 55 $ |
