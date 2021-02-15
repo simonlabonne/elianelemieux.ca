@@ -5,5 +5,8 @@ $primary: rgb(91, 106, 77);
 $body-color: rgb(26, 26, 26);
 $subtitle-color: rgb(26, 26, 26);
 $link: $primary;
+.content table {
+    width: inherit;
+}
 // Import Main CSS file from theme
 @import "main";
