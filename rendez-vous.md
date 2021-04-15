@@ -111,5 +111,3 @@ Des mesures sont mises en place pour assurer la protection de tous.
 * Pour le.la client.e le port du masque est obligatoire durant toute la rencontre (le couvre visage ou le masque de procédure sont actuellement acceptés).
 
 * De mon côté, je porte un masque de procédure médicale en tout temps. Actuellement, les recommandations de la santé publique n’imposent pas le port de la visière et du sarrau en massothérapie ou en herboristerie.
-
-À savoir, lorsque vous êtes couchés sur le ventre, le masque peut être installé sur la base de l’appuie-tête, sous le coussin, afin d’assurer plus de confort.
