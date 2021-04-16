@@ -2,10 +2,10 @@
 ---
 
 $primary: rgb(146, 159, 133);
-$body-color: rgb(26, 26, 26);
-$subtitle-color: rgb(26, 26, 26);
-$orange: rgb(179, 107, 32);
+$body-color: rgb(146, 159, 133);
+$orange: rgb(247, 148, 45);
 $link: $orange;
+$subtitle-color: $orange;
 // Import Main CSS file from theme
 @import "main";
 
