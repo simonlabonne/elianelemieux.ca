@@ -7,6 +7,6 @@ hero_link: "/a-propos"
 hero_link_text: En savoir plus à propos de moi
 show_sidebar: false
 hide_footer: true
-layout: page
+layout: homepage
 ---
 
