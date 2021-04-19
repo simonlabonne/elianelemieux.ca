@@ -133,3 +133,12 @@ body {
 .content h4 {
     color: $body-color;
 }
+
+.brand-logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 180px;
+    max-width: inherit;
+    max-height: inherit;
+}
