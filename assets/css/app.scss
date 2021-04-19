@@ -170,3 +170,9 @@ a.navbar-item:hover {
 .button:hover {
     text-decoration: none;
 }
+
+@media screen and (max-width: 1023px){
+    .navbar-menu {
+        padding: 2.5rem 0;
+    }
+}
