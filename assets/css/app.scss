@@ -137,8 +137,9 @@ body {
 
 .brand-logo {
     width:180px;
+    position: relative;
     &:hover {
-        background: transparent;
+        background: transparent!important;
     }
 }
 
