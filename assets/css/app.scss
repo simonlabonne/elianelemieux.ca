@@ -141,6 +141,7 @@ body {
     &:hover {
         background: transparent!important;
     }
+    top: -1rem;
 }
 
 .brand-logo img {
@@ -160,4 +161,8 @@ a:hover {
 
 a.navbar-item:hover {
     text-decoration: none;
+}
+
+.navbar {
+    margin-top: 1rem;
 }
