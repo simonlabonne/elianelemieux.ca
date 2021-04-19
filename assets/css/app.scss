@@ -108,7 +108,7 @@ html {
 
 body {
     font-family: 'Cairo';
-    background: $text-color;
+    color: $text-color;
 }
 
 .content table {
@@ -128,5 +128,5 @@ body {
 }
 
 .content h3 {
-    color: $orange;
+    color: rgb(146, 159, 133);
 }
