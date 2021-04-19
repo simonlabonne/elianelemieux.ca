@@ -124,10 +124,11 @@ body {
     font-size: 2rem;
     font-family: 'Lust Slim', serif;
     font-weight: normal;
+    color: $link;
 }
 
 .content h3 {
-    color: $orange;
+    color: $body-color;
 }
 
 .content h4 {
