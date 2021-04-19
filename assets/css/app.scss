@@ -1,9 +1,9 @@
 ---
 ---
 
-$primary: rgba(146, 159, 133, 1);
-$body-color: rgba(146, 159, 133, 1);
-$orange: rgba(247, 148, 45, 1);
+$primary: rgb(146, 159, 133);
+$body-color: rgb(146, 159, 133);
+$orange: rgb(247, 148, 45);
 $link: $orange;
 
 // Import Main CSS file from theme
@@ -106,7 +106,7 @@ html {
 
 body {
     font-family: 'Cairo';
-    background: rgba(239,238,202);
+    background: rgb(239, 238, 202);
 }
 
 .content table {
