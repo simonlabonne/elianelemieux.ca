@@ -155,4 +155,9 @@ body {
 
 a:hover {
     text-decoration: underline;
+    color: $link;
+}
+
+a.navbar-item:hover {
+    text-decoration: none;
 }
