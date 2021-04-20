@@ -108,8 +108,6 @@ Des mesures sont mises en place pour assurer la protection de tous.
 
 * Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
 
-* Du savon à main sans rinçage est à votre disposition à divers endroits  ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
+* Du savon à main sans rinçage est à votre disposition ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
 
-* Pour le.la client.e le port du masque est obligatoire durant toute la rencontre (le couvre visage ou le masque de procédure sont actuellement acceptés).
-
-* De mon côté, je porte un masque de procédure médicale en tout temps. Actuellement, les recommandations de la santé publique n’imposent pas le port de la visière et du sarrau en massothérapie ou en herboristerie.
+* Le port du masque de procédure médicale est obligatoire durant toute la rencontre. Il vous est fourni au besoin.
