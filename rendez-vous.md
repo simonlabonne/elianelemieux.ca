@@ -98,7 +98,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 </tr>
 </table>
 
-Reçu en naturopathie (A.N.P.Q.)
+Reçu en naturopathie (ANPQ)
 
 ## Mesures mises en place durant la pandémie
 
