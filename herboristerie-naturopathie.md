@@ -31,6 +31,7 @@ En plus de proposer divers outils permettant d’optimiser la santé globale, l�
 - Système digestif (maux de ventre, constipation, ballonnements, digestion difficile, reflux gastriques, côlon irritable, hémorroïdes, etc);
 - Système nerveux (fatigue, épuisement,insomnie, anxiété, dépression légère, spasmes, etc);
 - Système respiratoire (asthme, bronchite, sinusite, toux persistante, etc.)
+- Système tégumentaire (eczéma, urticaire, 
 - Système circulatoire (palpitations, hypertension, extrémités froides, etc);
 - Dérèglement hormonaux et troubles du système reproducteur (menstruations difficiles, SPM, symptômes liés à la périménopause, fibromes, vaginite, sécheresse vaginale, andropause, troubles de la prostate, etc);
 - Périnatalité (fertilité, maux durant la grossesse, allaitement, etc);
