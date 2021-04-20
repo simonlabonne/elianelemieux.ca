@@ -21,7 +21,7 @@ Les plantes, arbres et champignons biologiques, dont l’efficacité est de plus
 L’objectif est de soulager les symptômes sans épuiser le système, de travailler sur la source du problème en ciblant les déséquilibres présents et de faire un travail de fond en nourrissant et fortifiant l’organisme de façon globale. 
 
 ## Fonctionnement d’une consultation
-Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle, personnelle, etc. 
+Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle et personnelle, etc. 
 
 En plus de fournir une foule d’informations nécessaires à l’herboriste pour le choix des plantes et recommandations, cette première étape fait partie intégrante du processus de retour à la santé pour la personne qui consulte. Elle permet d’avoir une vue d’ensemble, de prendre conscience des déséquilibres et symptômes présents, de se responsabiliser, de développer une autonomie face à sa santé et d’être davantage à l’écoute des signaux lancés par son corps ou sa psyché. 
 
@@ -29,11 +29,12 @@ En plus de fournir une foule d’informations nécessaires à l’herboriste pou
 En plus de proposer divers outils permettant d’optimiser la santé globale, l’herboristerie peut être efficace pour plusieurs problèmes de santé :  
 
 - Système digestif (maux de ventre, constipation, ballonnements, digestion difficile, reflux gastriques, côlon irritable, hémorroïdes, etc);
-- Système nerveux (fatigue, épuisement, anxiété, dépression légère, spasmes, etc);
+- Système nerveux (fatigue, épuisement,insomnie, anxiété, dépression légère, spasmes, etc);
+- Système respiratoire (asthme, bronchite, sinusite, toux persistante, etc.)
 - Système circulatoire (palpitations, hypertension, extrémités froides, etc);
-- Dérèglement hormonaux et troubles du système reproducteur (menstruations difficiles, SPM, symptômes liés à la ménopause, fibromes, vaginite, sécheresse vaginale, andropause, troubles de la prostate, etc);
+- Dérèglement hormonaux et troubles du système reproducteur (menstruations difficiles, SPM, symptômes liés à la périménopause, fibromes, vaginite, sécheresse vaginale, andropause, troubles de la prostate, etc);
 - Périnatalité (fertilité, maux durant la grossesse, allaitement, etc);
-- Système urinaire (cystites, cystites intersticielles, prostate, etc);
+- Système urinaire (cystites, cystites intersticielles,calculs rénaux, etc);
 - Maux de tête, migraines;
 - Douleurs musculaires et articulaires;
 - Et plus encore…
@@ -67,18 +68,18 @@ Chaque plante est riche de plusieurs composantes et propriétés. En travaillant
 ### Réduction de l’impact environnemental 
 L’utilisation des médicaments, telle qu’elle s’effectue aujourd’hui dans plusieurs sociétés, engendre une suite de conséquences dont les impacts perturbent de façon préoccupante la biodiversité.
 
-Lorsque nous consommons des médicaments, nous les éliminons éventuellement via les selles et les urines. Ces déchets comportant des molécules chimiques, se retrouvent alors dans les égouts, puis dans une certaine proportion qui diffère d’une ville à l’autre (suivant le système de filtration des eaux usées), dans les cours d’eau pour ensuite s’insinuer dans la biodiversité et se retrouver ainsi éventuellement dans la chaîne alimentaire. Les analyses des eaux démontrent la présence de divers médicaments et hormones comme des antibiotiques, des oestrogènes, des antidépresseurs, etc. Ces particules s’ajoutent aux autres polluants et perturbateurs endocriniens présents dans plusieurs produits de nettoyage, plastiques, produits d’hygiène personnelle, etc, et provoquent des bouleversements au niveau de l’organisme des espèces sous-marines mais aussi des humains et des animaux. À titre d’exemple, à cause des contraceptifs oraux et d’autres perturbateurs endocriniens, on observe un phénomène de féminisation des poissons. Chez l’humain, l’impact se fait sentir au niveau de plusieurs glandes dont la thyroïde et les testicules; ces perturbateurs affectent la qualité des spermatozoïdes et augmentent les chances de développer un cancer des testicules.
+Lorsque nous consommons des médicaments, nous les éliminons éventuellement via les selles et les urines. Ces déchets comportant des molécules chimiques, se retrouvent alors dans les égouts, puis dans une certaine proportion qui diffère d’une ville à l’autre (suivant le système de filtration des eaux usées), dans les cours d’eau pour ensuite s’insinuer dans la biodiversité et se retrouver ainsi éventuellement dans la chaîne alimentaire. Les analyses des eaux démontrent la présence de divers médicaments et hormones comme des antibiotiques, des oestrogènes, des antidépresseurs, etc. Ces particules s’ajoutent aux autres polluants et perturbateurs endocriniens présents dans plusieurs produits de nettoyage, plastiques, produits d’hygiène personnelle, etc. Ces molécules provoquent des bouleversements au niveau de l’organisme des espèces sous-marines mais aussi des humains et des animaux. À titre d’exemple, à cause des contraceptifs oraux et d’autres perturbateurs endocriniens, on observe un phénomène de féminisation des poissons. Chez l’humain, l’impact se fait sentir au niveau de plusieurs glandes dont la thyroïde et les testicules; ces perturbateurs affectent la qualité des spermatozoïdes et augmentent les chances de développer un cancer des testicules.
 
-De plus, à cause de la surutilisation des médicaments et de leur présence dans la biodiversité, les bactéries développent une résistance aux antibiotiques proposés actuellement notamment pour traiter la pneumonie, la tuberculose, la septicémie, la gonorrhée et certaines maladies alimentaires. Cette situation amène la science à se tourner de plus en plus vers les plantes pour trouver des solutions à ce problème inquiétant.
+De plus, à cause de la surutilisation des médicaments et de leur présence dans la biodiversité, certaines bactéries développent une résistance aux antibiotiques proposés actuellement notamment pour traiter la pneumonie, la tuberculose, la septicémie, la gonorrhée et certaines maladies alimentaires. Cette situation amène la science à se tourner de plus en plus vers les plantes pour trouver des solutions à ce problème préoccupant.
 
 
 ## La première rencontre comprend
-- Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance, débuter ma réflexion et mes recherches; 
+- Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion; 
 - Une rencontre de 75-90 minutes;
 - Diverses recommandations sur l’alimentation et l’hygiène de vie;
 - Des recommandations au niveau des plantes médicinales et suppléments à prendre.
 
 L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguent, d’huiles et d’huiles essentielles.
 
-Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire ou les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
+Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire ou, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
 
