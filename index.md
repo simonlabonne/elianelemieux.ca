@@ -1,7 +1,7 @@
 ---
 title: Éliane Lemieux
 subtitle: "Masso-kinésithérapeute et \nherboriste-naturopathe"
-hero_image: "/uploads/lavender-2117365_1920.jpg"
+hero_image: "/_uploads/lavender-2117365_1920.jpg"
 hero_height: is-fullheight
 hero_link: "/rendez-vous"
 hero_link_text: Prendre rendez-vous
