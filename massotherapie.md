@@ -29,8 +29,6 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 
 * Prise de conscience des tensions présentes, même celles insoupçonnées;
 
-* Ajouter une ligne
-
 * Etc.
 
 Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
