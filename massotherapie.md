@@ -31,6 +31,8 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 
 * Etc.
 
+![DSC_0224.jpeg](/uploads/DSC_0224.jpeg)
+
 Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
 
 J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
