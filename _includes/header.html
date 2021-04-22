@@ -2,7 +2,7 @@
     <div class="container">
         <div class="navbar-brand">
             <a href="{{ site.baseurl }}/" class="navbar-item">
-                Éliane Lemieux<br>
+                Éliane Lemieux<br><br>
                 <span>Masso-kinésithérapeute et herboriste-naturopathe</span>
             </a>
             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
@@ -12,7 +12,7 @@
             </a>
         </div>
         <div class="navbar-menu" id="navMenu">
-            <div class="navbar-start">
+            <div class="navbar-end">
                 {% if site.data.navigation %}
                 {% for item in site.data.navigation %}
                     {% if item.dropdown %}
