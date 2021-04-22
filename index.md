@@ -1,7 +1,7 @@
 ---
 title: Éliane Lemieux
 subtitle: "Masso-kinésithérapeute et \nherboriste-naturopathe"
-hero_image: https://simonlabonne.github.io/elianelemieux.ca/img/eliane-lemieux_2.jpg
+hero_image: "/uploads/IMG_3353%204.jpeg"
 hero_height: is-fullheight
 hero_link: "/a-propos"
 hero_link_text: Prendre rendez-vous
