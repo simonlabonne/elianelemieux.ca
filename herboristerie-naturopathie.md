@@ -6,24 +6,22 @@ hide_hero: true
 
 # Herboristerie-naturopathie
 
-L’herboristerie est une médecine alternative et ancestrale utilisant les plantes, arbres et champignons médicinaux pour soutenir et retrouver la santé. 
+L’herboristerie est une médecine alternative et ancestrale utilisant les plantes, les arbres et les champignons médicinaux pour soutenir et retrouver la santé. 
 
 La naturopathie, quant à elle, est une médecine visant à maintenir et/ou rétablir l’équilibre et la santé de façon globale par des moyens naturels.
 
-Le mariage de ces deux médecines permet de travailler selon les principes de la naturopathie tout en ayant les connaissances et les moyens de l’herboriste qui est en mesure de suggérer et préparer des mélanges de plantes personnalisés et adaptés aux besoins des personnes qui consultent. 
+Le mariage de ces deux médecines permet de travailler selon les principes de la naturopathie tout en ayant les connaissances et le savoir-faire de l’herboriste qui est en mesure de suggérer et préparer des mélanges de plantes personnalisés et adaptés aux besoins des personnes qui consultent. 
 
-L’herboristerie est une approche intimement liée à l’environnement qui nous fournit ces précieux remèdes. Elle implique une compréhension de l’interrelation des vivants et de l’importance du rôle de chacun de ces éléments dans la préservation ou le retour à l’équilibre. 
+L’herboristerie est une approche intimement liée à la nature qui nous fournit de précieux remèdes. Les plantes, les arbres et les champignons biologiques, dont l'efficacité thérapeutique est de plus en plus étudiée et confirmée par la science, sont à la base de cette pratique. On les utilise sous différentes formes: teintures-mère, vinaigres médicinaux, infusions, décoctions, poudres, huiles, onguents, sirops, cataplasmes, etc. 
 
-Cette conscience amène l’herboriste dans une démarche respectueuse tant au niveau de la culture et de la récolte des plantes utilisées que du choix d’ingrédients sains présents dans les transformations (huiles, beurres, cire ou émulsifiants, huiles essentielles, etc.). Ceci permet non seulement d’assurer la pérennité des plantes mais aussi la qualité et l’efficacité des préparations faisant parti du processus de retour à la santé.
+Cette approche implique également une compréhension de l'interdépendance des organismes vivants et de l'importance de leur rôle dans la préservation ou le retour à l'équilibre tant sur le plan écologique que biologique. Ainsi, l'herboriste choisit ou prépare des concoctions de qualité tout en assurant la pérennité des plantes cultivées ou récoltées. Cette préoccupation se retrouve également dans le choix d'ingrédients sains présents dans les transformations (huiles, cires ou émulsifiants, huiles essentielles, etc.).
 
-Les plantes, arbres et champignons biologiques, dont l’efficacité est de plus en plus étudiée et confirmée par la science, sont à la base de cette pratique. On les utilise sous différentes formes : teintures-mère, vinaigres médicinaux, infusions, décoctions, poudres, huiles, onguents, sirops, cataplasmes, etc. 
-
-L’objectif est de soulager les symptômes sans épuiser le système, de travailler sur la source du problème en ciblant les déséquilibres présents et de faire un travail de fond en nourrissant et fortifiant l’organisme de façon globale. 
+L’objectif de l'herboriste-naturopathe est de soulager les symptômes sans épuiser le système, de travailler sur la source du problème de santé en ciblant les déséquilibres présents et de faire un travail de fond en nourrissant et en fortifiant l’organisme de façon globale. 
 
 ## Fonctionnement d’une consultation
-Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle et personnelle, etc. 
+Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie de la personne qui consulte : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle et personnelle, etc. 
 
-En plus de fournir une foule d’informations nécessaires à l’herboriste pour le choix des plantes et recommandations, cette première étape fait partie intégrante du processus de retour à la santé pour la personne qui consulte. Elle permet d’avoir une vue d’ensemble, de prendre conscience des déséquilibres et symptômes présents, de se responsabiliser, de développer une autonomie face à sa santé et d’être davantage à l’écoute des signaux lancés par son corps ou sa psyché. 
+En plus de fournir une foule d’informations nécessaires à l’herboriste pour le choix des plantes et recommandations, cette première étape fait partie intégrante du processus de retour à la santé. Elle permet d’avoir une vue d’ensemble, de prendre conscience des déséquilibres et symptômes présents, de se responsabiliser, de développer une autonomie face à sa santé et d’être davantage à l’écoute des signaux lancés par son corps ou sa psyché. 
 
 ## Pourquoi consulter en herboristerie-naturopathie?
 En plus de proposer divers outils permettant d’optimiser la santé globale, l’herboristerie peut être efficace pour plusieurs problèmes de santé :  
@@ -31,7 +29,7 @@ En plus de proposer divers outils permettant d’optimiser la santé globale, l�
 - Système digestif (maux de ventre, constipation, ballonnements, digestion difficile, reflux gastriques, côlon irritable, hémorroïdes, etc);
 - Système nerveux (fatigue, épuisement,insomnie, anxiété, dépression légère, spasmes, etc);
 - Système respiratoire (asthme, bronchite, sinusite, toux persistante, etc.)
-- Système tégumentaire (eczéma, urticaire, 
+- Système tégumentaire (eczéma, urticaire, psoriasis, etc.) 
 - Système circulatoire (palpitations, hypertension, extrémités froides, etc);
 - Dérèglement hormonaux et troubles du système reproducteur (menstruations difficiles, SPM, symptômes liés à la périménopause, fibromes, vaginite, sécheresse vaginale, andropause, troubles de la prostate, etc);
 - Périnatalité (fertilité, maux durant la grossesse, allaitement, etc);
@@ -41,21 +39,17 @@ En plus de proposer divers outils permettant d’optimiser la santé globale, l�
 - Et plus encore…
 
 ## L’efficacité des plantes médicinales
-Les plantes médicinales contiennent des principes actifs bien réels étudiés et utilisés scientifiquement. 
+Les plantes médicinales contiennent des principes actifs étudiés et utilisés scientifiquement. 
 
-Certains de ces principes actifs ont été isolés pour une première fois dans les années 1800 et ont servi à créer entre autres la morphine (fait à partir du latex du pavot) et les aspirines (à partir de l’acide salicylique présente dans l’écorce de saule). Depuis, la science continue d’étudier, d’isoler et de synthétiser les principes actifs de diverses parties de plantes et arbres pour la fabrication de plusieurs médicaments (certains médicaments contre l’insuffisance cardiaque, chimiothérapies, hormonothérapie bio-identique, etc.). 
-
-De tout temps, les populations se sont soignées avec les plantes et continuent de le faire encore à ce jour avec succès.
-
-Certains aspects sont à considérer afin de pouvoir bénéficier des bienfaits des plantes et obtenir des résultats satisfaisants en toute sécurité :
+Certains aspects sont cependant à considérer afin de pouvoir bénéficier des bienfaits des plantes et obtenir des résultats satisfaisants en toute sécurité :
 - S’assurer de la qualité et de la fraîcheur des plantes. Choisir des plantes biologiques provenant soit d’herboristeries ou de votre propre culture;
 - Être conseillé par une personne qualifiée qui prendra en compte les différents aspects de votre santé afin d’être en mesure de proposer les plantes adéquates et sécuritaires pour votre situation;
-- Être conscient que naturel ne veut pas dire sans danger. Certaines plantes comportent des risques selon les dosages et peuvent interagir avec des médicaments ou d’autres produits naturels;
+- Être conscient que "naturel" ne veut pas dire "sans danger". Certaines plantes comportent des risques selon les dosages et peuvent interagir avec des médicaments ou d’autres produits naturels;
 - Une démarche en santé holistique implique généralement des changements dans certains aspects de l’hygiène de vie. Il faut parfois du temps, de la patience et de la persévérance pour apprécier les bienfaits pouvant apparaitre de façon graduelle. Ce processus optimise la santé de façon durable en ne provoquant que peu ou pas d’effets secondaires;
 - La constance et la régularité dans l’application des recommandations est nécessaire à l’obtention de résultats satisfaisants;
-- Les résultats peuvent être ressentis rapidement ou plus graduellement selon qu’il s’agisse d’un problème ponctuel ou chronique.
+- Les résultats peuvent être ressentis en quelques jours ou plus graduellement (quelques semaines) selon qu’il s’agisse d’un problème ponctuel ou chronique.
 
-## Pourquoi choisir les plantes
+## Pourquoi consulter une herboriste-naturopathe:
 ### Développer une autonomie face à sa santé
 L’acquisition de connaissances au niveau des saines habitudes de vie et de l’utilisation des plantes médicinales permet de prendre en charge sa santé et d’agir en prévention. Cette implication face à soi amène une meilleure qualité de vie et renforce la confiance en ses capacités.
 
