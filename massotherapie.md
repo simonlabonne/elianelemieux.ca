@@ -15,7 +15,9 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 
 * Amélioration de la circulation sanguine et lymphatique;
 
-* Soulagement des tensions musculaires et tendineuses;
+* Soulagement des tensions musculaires;
+
+* Soulagement d'engourdissements causés par des tensions   musculaires;
 
 * Assouplissement des fascias;
 
@@ -66,11 +68,11 @@ J’opte généralement pour une approche mixte à moins d’une demande spécif
 
 Un des massages les plus connus et datant des années 1800.
 
-Il s’effectue avec de l’huile et vise à travailler les muscles et les tendons, de leurs attaches à leurs insertions, ainsi qu’à avoir un effet sur le retour sanguin. Il procure détente, améliore la circulation sanguine, permet d’assouplir la peau et de ramener de la mobilité articulaire en utilisant différentes techniques comme des effleurements, des foulages, des percussions, des frictions, des ébranlements, des vibrations et des drainages.
+Il s’effectue avec de l’huile et vise à travailler les muscles et les tendons, de leurs attaches à leurs insertions, ainsi qu’à avoir un effet sur le retour sanguin. Il procure de la détente, améliore la circulation sanguine, permet d’assouplir la peau et de ramener de la mobilité articulaire. Différentes techniques sont utilisées comme des effleurements, des foulages, des percussions, des frictions, des ébranlements, des vibrations et des drainages.
 
 ### Kinésithérapie
 
-La kinésithérapie, au Québec, est une approche alliant le massage et le mouvement. Cette approche implique une compréhension plus approfondie des pathologies du système musculo-squelettique et permet ainsi une intervention mieux adaptée lors de déséquilibres en intégrant des mobilisations et des étirements au massage afin d’augmenter les bienfaits lors de maux ou limitations plus spécifiques. Selon les inconforts ou douleurs ressenties et suite à ce qui a été observé durant la séance, des recommandations d’étirements, de renforcements ou de changements de posture peuvent être faites à la fin de la rencontre afin d’impliquer la personne dans son processus de guérison et d’optimiser les résultats.
+La kinésithérapie, au Québec, est une approche alliant le massage et le mouvement. Cette approche implique une compréhension plus approfondie des pathologies du système musculo-squelettique et permet ainsi une intervention mieux adaptée lors de déséquilibres en intégrant des mobilisations et des étirements au massage afin d’augmenter les bienfaits lors de maux ou limitations plus spécifiques. Selon les inconforts ou douleurs ressenties et suite à ce qui a été observé durant la séance, des recommandations d’étirements, de renforcements ou de changements de posture peuvent être faites à la fin de la rencontre. Ceci permet d’impliquer la personne dans son processus de guérison et d’optimiser les résultats.
 
 ### Massage des tissus profonds
 
@@ -86,7 +88,7 @@ Le drainage lymphatique est une technique qui a été développée en 1932 par l
 
 Cette méthode sans huile et très douce s’effectue en respectant le sens du circuit lymphatique. Des pompages légers sont effectués à un rythme régulier et lent pour stimuler, sans les écraser, les vaisseaux lymphatiques situés sous la peau. Ces manœuvres sont répétées sur différentes sections du corps selon les symptômes ou pathologies à soulager.
 
-Cette technique s’avère particulièrement intéressante lors d’œdème causée soit par une déficience circulatoire ou suite à un traumatisme physique, lors de jambes lourdes, d’articulation douloureuse, avant et après une chirurgie, lors de congestion nasale ou de sinusites, de maux de tête, d’acné, etc.
+Cette technique s’avère particulièrement intéressante lors d’œdème causé soit par une déficience circulatoire ou suite à un traumatisme physique, lors de jambes lourdes, d’articulation douloureuse, avant et après une chirurgie, lors de congestion nasale ou de sinusites, de maux de tête, d’acné, etc.
 
 En plus des effets recherchés au niveau physiologiques, la douceur, la lenteur et la répétition régulière des pompages amène le système nerveux dans un état de grande détente.
 
