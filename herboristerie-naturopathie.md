@@ -50,12 +50,12 @@ Certains aspects sont cependant à considérer afin de pouvoir bénéficier des 
 - Les résultats peuvent être ressentis en quelques jours ou plus graduellement (quelques semaines) selon qu’il s’agisse d’un problème ponctuel ou chronique.
 
 ## Pourquoi consulter une herboriste-naturopathe:
-### Développer une autonomie face à sa santé
-L’acquisition de connaissances au niveau des saines habitudes de vie et de l’utilisation des plantes médicinales permet de prendre en charge sa santé et d’agir en prévention. Cette implication face à soi amène une meilleure qualité de vie et renforce la confiance en ses capacités.
+### Favoriser l'autonomie et la prévention.
+L’acquisition de connaissances au sujet des saines habitudes de vie et de l’utilisation des plantes médicinales favorise une prise en charge autonome de sa santé et permet d’agir en prévention. Cette implication face à soi amène une meilleure qualité de vie et renforce la confiance en ses capacités.
 
 ### Éviter ou réduire les effets secondaires dus à la prise de médicaments
-La pharmacopée contemporaine peut s’avérer nécessaire et importante à certains moments mais comporte aussi des effets secondaires pouvant être très incommodants (ex : brûlements d’estomac causés par les anti-inflammatoires, amincissement de la peau causée par la cortisone, maux de tête et saignements causés par les médicaments pour la congestion nasale, etc.). 
-Ces impacts peuvent être minimisés en ayant recours entre autres aux plantes médicinales. Dans plusieurs situations les médicaments peuvent être évités, la prise retardée ou réduite en optant pour des changements alimentaires, d’hygiène de vie et en utilisant les plantes médicinales de façon adéquate. 
+La pharmacopée contemporaine peut s’avérer nécessaire et importante à certains moments, mais comporte aussi des effets secondaires pouvant être très incommodants (ex : brûlements d’estomac causés par les anti-inflammatoires, amincissement de la peau causée par la cortisone, maux de tête et saignements causés par les médicaments pour la congestion nasale, nausées, étourdissements, etc.). 
+Ces impacts peuvent être minimisés en ayant recours entre autres aux plantes médicinales. Dans plusieurs situations, la prise de médicaments peut être réduite ou retardée, voire évitée en optant pour des changements alimentaires, d’hygiène de vie et en utilisant les plantes médicinales de façon adéquate. 
 
 ### Bénéficier de la synergie des composantes des plantes
 Chaque plante est riche de plusieurs composantes et propriétés. En travaillant avec celles-ci, l’organisme peut profiter de cette synergie et de ses multiples effets. Des études scientifiques ont d’ailleurs corroboré le fait que l’utilisation d’une plante entière est souvent plus efficace qu’un principe actif isolé et synthétisé. 
@@ -63,18 +63,23 @@ Chaque plante est riche de plusieurs composantes et propriétés. En travaillant
 ### Réduction de l’impact environnemental 
 L’utilisation des médicaments, telle qu’elle s’effectue aujourd’hui dans plusieurs sociétés, engendre une suite de conséquences dont les impacts perturbent de façon préoccupante la biodiversité.
 
-Lorsque nous consommons des médicaments, nous les éliminons éventuellement via les selles et les urines. Ces déchets comportant des molécules chimiques, se retrouvent alors dans les égouts, puis dans une certaine proportion qui diffère d’une ville à l’autre (suivant le système de filtration des eaux usées), dans les cours d’eau pour ensuite s’insinuer dans la biodiversité et se retrouver ainsi éventuellement dans la chaîne alimentaire. Les analyses des eaux démontrent la présence de divers médicaments et hormones comme des antibiotiques, des oestrogènes, des antidépresseurs, etc. Ces particules s’ajoutent aux autres polluants et perturbateurs endocriniens présents dans plusieurs produits de nettoyage, plastiques, produits d’hygiène personnelle, etc. Ces molécules provoquent des bouleversements au niveau de l’organisme des espèces sous-marines mais aussi des humains et des animaux. À titre d’exemple, à cause des contraceptifs oraux et d’autres perturbateurs endocriniens, on observe un phénomène de féminisation des poissons. Chez l’humain, l’impact se fait sentir au niveau de plusieurs glandes dont la thyroïde et les testicules; ces perturbateurs affectent la qualité des spermatozoïdes et augmentent les chances de développer un cancer des testicules.
+Lorsque nous consommons des médicaments, nous les éliminons éventuellement via les selles et les urines. Ces déchets comportant des molécules chimiques, se retrouvent alors dans les égouts, puis dans une certaine proportion qui diffère d’une ville à l’autre (suivant le système de filtration des eaux usées), dans les cours d’eau pour ensuite s’immiscer dans les écosystèmes et se retrouver éventuellement dans la chaîne alimentaire. En effet, les analyses des eaux démontrent la présence de divers médicaments et hormones comme des antibiotiques, des oestrogènes, des antidépresseurs, etc. Ces particules s’ajoutent aux autres polluants et perturbateurs endocriniens présents dans plusieurs produits de nettoyage, plastiques, produits d’hygiène personnelle, etc. Ces molécules provoquent des bouleversements au niveau de l’organisme des espèces sous-marines, mais aussi des humains et des animaux. À titre d’exemple, à cause des contraceptifs oraux et d’autres perturbateurs endocriniens, on observe un phénomène de féminisation des poissons. Chez l’humain, l’impact se fait sentir au niveau de plusieurs glandes dont la thyroïde et les testicules; ces perturbateurs affectent la qualité des spermatozoïdes et augmentent les chances de développer un cancer des testicules.
 
-De plus, à cause de la surutilisation des médicaments et de leur présence dans la biodiversité, certaines bactéries développent une résistance aux antibiotiques proposés actuellement notamment pour traiter la pneumonie, la tuberculose, la septicémie, la gonorrhée et certaines maladies alimentaires. Cette situation amène la science à se tourner de plus en plus vers les plantes pour trouver des solutions à ce problème préoccupant.
+Finalement, à cause de la surutilisation des médicaments et de leur présence dans la biodiversité, certaines bactéries développent une résistance aux antibiotiques proposés actuellement, notamment pour traiter la pneumonie, la tuberculose, la septicémie, la gonorrhée et certaines maladies alimentaires. Cette situation amène la science à se tourner de plus en plus vers les plantes pour trouver des solutions à ce problème préoccupant.
+
+À noter:
+Une consultation en herboristerie-naturopathie ne remplace pas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux. 
 
 
-## La première rencontre comprend
+## Détails sur la première rencontre
+
+D'une durée de 75 à 90 minutes, la première rencontre comprend:
+
 - Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion; 
-- Une rencontre de 75-90 minutes;
 - Diverses recommandations sur l’alimentation et l’hygiène de vie;
-- Des recommandations au niveau des plantes médicinales et suppléments à prendre.
+- Des recommandations au niveau des plantes médicinales et, au besoin, des suppléments à prendre.
 
-L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguent, d’huiles et d’huiles essentielles.
+L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
 
-Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire ou, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
+Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
 
