@@ -2,6 +2,7 @@
 title: Massothérapie
 hide_footer: true
 hide_hero: true
+layout: massotherapie
 ---
 
 ![PB062237.jpeg](/uploads/PB062237.jpeg)
