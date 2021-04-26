@@ -24,7 +24,7 @@ Montréal (Québec)  H2B 2R5
 </div>
 
 
-- POLITIQUE D’ANNULATION -
+- POLITIQUE D’ANNULATION 
 
 Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important. 
 
