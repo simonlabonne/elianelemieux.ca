@@ -2,6 +2,8 @@
 title: Herboristerie-naturopathie
 hide_footer: true
 hide_hero: true
+a_noter: Une consultation en herboristerie-naturopathie ne remplace en aucun cas un
+  diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
 ---
 
 # Herboristerie-naturopathie
@@ -109,14 +111,3 @@ D'une durée de 75 à 90 minutes, la première rencontre comprend:
 L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
 
 Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
-
-
-
-</div>
-
-
-
-<div class="alert alert-dark" role="alert">
-<h2>À noter</h2>
-Une consultation en herboristerie-naturopathie ne remplace en aucun cas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
-</div>
