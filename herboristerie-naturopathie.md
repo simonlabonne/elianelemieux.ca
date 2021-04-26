@@ -98,16 +98,3 @@ Finalement, à cause de la surutilisation des médicaments et de leur présence 
 À noter:
 Une consultation en herboristerie-naturopathie ne remplace pas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
 
-## Détails sur la première rencontre
-
-D'une durée de 75 à 90 minutes, la première rencontre comprend:
-
-* Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion;
-
-* Diverses recommandations sur l’alimentation et l’hygiène de vie;
-
-* Des recommandations au niveau des plantes médicinales et, au besoin, des suppléments à prendre.
-
-L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
-
-Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
