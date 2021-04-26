@@ -54,7 +54,7 @@ Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en
 
 ### Massothérapie
 
-<table class="table is-striped">
+<table class="table table-striped">
 <tr>
 <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
 <td class="has-text-right">100 $</td>
@@ -81,7 +81,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 
 ### Herboristerie
 
-<table class="table is-striped">
+<table class="table table-striped">
 <tr>
 <td>1<sup>re</sup> rencontre</td>
 <td class="has-text-right">145 $</td>
