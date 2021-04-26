@@ -69,7 +69,7 @@ J’opte généralement pour une approche mixte à moins d’une demande spécif
 <div class="card-header" id="headingOne">
 <h2 class="mb-0">
 <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-Massage suédois
+Massage suédois cinétique
 </button>
 </h2>
 </div>
