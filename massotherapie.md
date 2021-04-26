@@ -42,28 +42,6 @@ Mon expérience professionnelle ainsi que les outils acquis au fil des années m
 
 J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
 
-## Techniques utilisées
-
-* [Massage suédois cinétique](#massage-su%C3%A9dois)
-
-* [Masso-kinésithérapie](#kin%C3%A9sith%C3%A9rapie)
-
-* [Massage des tissus profonds](#massage-des-tissus-profonds)
-
-* [Drainage lymphatique Vodder](#drainage-lymphatique-vodder)
-
-* [Fasciathérapie](#fasciath%C3%A9rapie)
-
-* [Massage viscéral](#massage-visc%C3%A9ral)
-
-* [Ventouses thérapeutiques](#ventouses-th%C3%A9rapeutiques)
-
-* [Lomi-atsu](#lomi-atsu)
-
-* [Réflexologie des pieds](#r%C3%A9flexologie-des-pieds)
-
-* [Massage adapté à la femme enceinte](#massage-adapt%C3%A9-%C3%A0-la-femme-enceinte)
-
 <div class="accordion" id="accordion">
 <div class="card">
 <div class="card-header" id="headingOne">
@@ -134,7 +112,6 @@ Drainage lymphatique Vodder
 </div>
 </div>
 </div>
-
 
 </div>
 
