@@ -10,6 +10,7 @@ $body-color: rgb(71, 80, 63);
 @import "main";
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 html {
     font-size: 18px;
@@ -19,6 +20,10 @@ html {
 body {
     color: $body-color;
     background: transparent;
+    font-family: 'Cutive Mono', monospace;
+}
+
+h1 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
