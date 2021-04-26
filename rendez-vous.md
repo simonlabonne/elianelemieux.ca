@@ -25,7 +25,7 @@ Montréal (Québec)  H2B 2R5
 
 ## Horaire
 
-<table class="table is-striped">
+<table class="table table-striped">
 <tr>
 <td>Lundi</td>
 <td>9 h à 14 h 30</td>
