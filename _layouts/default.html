@@ -12,7 +12,7 @@
         <p>{{ page.a_noter }}</p>
       </div>
     {% endif %}
-    { if page.page_masssage %}
+    {% if page.page_masssage %}
       {% for massage in site.massages %}
         <h2>{{ massage.title }}</h2>
         {{ massage.content }}
