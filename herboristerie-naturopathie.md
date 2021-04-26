@@ -84,9 +84,6 @@ L’utilisation des plantes médicinales dans ma pratique se fait principalement
 
 Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
 
+- À NOTER -
 
-
-
-<div class="alert alert-dark" role="alert">
-  Texte herboristerie
-</div>
+Une consultation en herboristerie-naturopathie ne remplace en aucun cas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
