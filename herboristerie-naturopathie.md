@@ -113,6 +113,9 @@ Des préparations personnalisées peuvent généralement être préparées sur p
 
 
 </div>
+
+
+
 <div class="alert alert-dark" role="alert">
 <h2>À noter</h2>
 Une consultation en herboristerie-naturopathie ne remplace en aucun cas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
