@@ -34,7 +34,7 @@ date: 2021-04-26 16:28:00 -04:00
 - Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.
 
 
-## Tarifs (taxes incluses)
+## Tarifs (taxes incluses dans les prix présentés)
 
 ### Massothérapie
 <table class="table table-striped">
