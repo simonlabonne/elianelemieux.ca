@@ -13,27 +13,23 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 
 ## Bienfaits du massage
 
+<div class="row">
+<div class="col">
 * Amélioration de la circulation sanguine et lymphatique;
-
 * Soulagement des tensions musculaires;
-
 * Soulagement d'engourdissements causés par des tensions   musculaires;
-
 * Assouplissement des fascias;
-
 * Amélioration de la mobilité et de l’amplitude de mouvement;
-
 * Apaisement mental;
-
+</div>
+<div class="col">
 * Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;
-
 * Amélioration du sommeil;
-
 * Amélioration de la capacité de réparation et de régénération de l’organisme;
-
 * Prise de conscience des tensions présentes, même celles insoupçonnées;
-
 * Etc.
+</div>
+</div>
 
 ![DSC_0224.jpeg](/uploads/DSC_0224.jpeg)\
 *(Photo : Ton ami)*
