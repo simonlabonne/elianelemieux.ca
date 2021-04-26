@@ -11,7 +11,7 @@ Convaincue de l’interrelation entre la santé physique et psychique, l’alime
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
 ## Formations
-Plus de 4000 heures de formation:
+Plus de 4000 heures de formation :
 
 - Diplôme en [masso-kinésithérapie](/massotherapie)
 (Formation chez kiné-concept)
