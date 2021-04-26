@@ -22,13 +22,16 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 <li>Assouplissement des fascias;</li>
 <li>Amélioration de la mobilité et de l’amplitude de mouvement;</li>
 <li>Apaisement mental;</li>
+</ul>
 </div>
 <div class="col">
+<ul>
 <li>Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;<li>
 <li>Amélioration du sommeil;</li>
 <li>Amélioration de la capacité de réparation et de régénération de l’organisme;</li>
 <li>Prise de conscience des tensions présentes, même celles insoupçonnées;</li>
 <li>Etc.</li>
+</ul>
 </div>
 </div>
 
