@@ -9,6 +9,8 @@ $body-color: rgb(71, 80, 63);
 
 @import "main";
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:300');
+
 html {
     font-size: 18px;
     background: rgb(243, 245, 239);
@@ -17,6 +19,7 @@ html {
 body {
     color: $body-color;
     background: transparent;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 img {
