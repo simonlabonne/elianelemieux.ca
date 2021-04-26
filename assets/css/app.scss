@@ -15,12 +15,11 @@ $body-color: rgb(71, 80, 63);
 
 html {
     font-size: 18px;
-    background: rgb(243, 245, 239);
+//     background: rgb(243, 245, 239);
 }
 
 body {
     color: $body-color;
-    background: transparent;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -31,6 +30,10 @@ body {
 h1, h2, h3 {
 //     font-family: 'Open Sans Condensed', sans-serif;
     font-family: 'Cutive Mono', monospace;
+}
+
+h2 {
+    color: #a7b293
 }
 
 img {
