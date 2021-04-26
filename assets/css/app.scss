@@ -44,7 +44,6 @@ img {
     color: #fff;
 }
 
-
 .alert-dark {
     background: #c1cab0;
     text-align: center;
@@ -53,4 +52,10 @@ img {
         color:#fff;
     }
     color: #fff;
+}
+
+.card-header {
+    button {
+        font-size: 1.5rem; 
+    }
 }
