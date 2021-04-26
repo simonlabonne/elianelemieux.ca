@@ -48,7 +48,7 @@ Montréal (Québec)  H2B 2R5
 </tr>
 </table>
 
-Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.
+* Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.
 
 ## Tarifs (taxes incluses)
 
