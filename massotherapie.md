@@ -76,17 +76,28 @@ Massage suédois
 
 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 <div class="card-body">
-Un des massages les plus connus et datant des années 1800.
-
-Il s’effectue avec de l’huile et vise à travailler les muscles et les tendons, de leurs attaches à leurs insertions, ainsi qu’à avoir un effet sur le retour sanguin. Il procure de la détente, améliore la circulation sanguine, permet d’assouplir la peau et de ramener de la mobilité articulaire. Différentes techniques sont utilisées comme des effleurements, des foulages, des percussions, des frictions, des ébranlements, des vibrations et des drainages.
-</div>
+<p>Un des massages les plus connus et datant des années 1800.</p>
+<p>Il s’effectue avec de l’huile et vise à travailler les muscles et les tendons, de leurs attaches à leurs insertions, ainsi qu’à avoir un effet sur le retour sanguin. Il procure de la détente, améliore la circulation sanguine, permet d’assouplir la peau et de ramener de la mobilité articulaire. Différentes techniques sont utilisées comme des effleurements, des foulages, des percussions, des frictions, des ébranlements, des vibrations et des drainages.</p>
 </div>
 </div>
 </div>
 
-### Kinésithérapie
+<div class="card">
+<div class="card-header" id="headingTwo">
+<h2 class="mb-0">
+<button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+Kinésithérapie
+</button>
+</h2>
+</div>
 
-La kinésithérapie, au Québec, est une approche alliant le massage et le mouvement. Cette approche implique une compréhension plus approfondie des pathologies du système musculo-squelettique et permet ainsi une intervention mieux adaptée lors de déséquilibres en intégrant des mobilisations et des étirements au massage afin d’augmenter les bienfaits lors de maux ou limitations plus spécifiques. Selon les inconforts ou douleurs ressenties et suite à ce qui a été observé durant la séance, des recommandations d’étirements, de renforcements ou de changements de posture peuvent être faites à la fin de la rencontre. Ceci permet d’impliquer la personne dans son processus de guérison et d’optimiser les résultats.
+<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+<div class="card-body">
+<p>La kinésithérapie, au Québec, est une approche alliant le massage et le mouvement. Cette approche implique une compréhension plus approfondie des pathologies du système musculo-squelettique et permet ainsi une intervention mieux adaptée lors de déséquilibres en intégrant des mobilisations et des étirements au massage afin d’augmenter les bienfaits lors de maux ou limitations plus spécifiques. Selon les inconforts ou douleurs ressenties et suite à ce qui a été observé durant la séance, des recommandations d’étirements, de renforcements ou de changements de posture peuvent être faites à la fin de la rencontre. Ceci permet d’impliquer la personne dans son processus de guérison et d’optimiser les résultats.</p>
+</div>
+</div>
+</div>
+</div>
 
 ### Massage des tissus profonds
 
