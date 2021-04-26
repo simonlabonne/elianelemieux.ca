@@ -5,6 +5,7 @@ date: 2021-04-26 16:28:00 -04:00
 
 ![DSC_0693.jpeg](/uploads/DSC_0693.jpeg)
 
+
 ## Horaire
 <table class="table table-striped">
 <tbody><tr>
@@ -29,9 +30,12 @@ date: 2021-04-26 16:28:00 -04:00
 </tr>
 </tbody></table>
 
+
 - Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.
 
+
 ## Tarifs (taxes incluses)
+
 ### Massothérapie
 <table class="table table-striped">
 <tbody><tr>
@@ -58,6 +62,7 @@ date: 2021-04-26 16:28:00 -04:00
 
 Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 
+
 ### Herboristerie
 <table class="table table-striped">
 <tbody><tr>
@@ -83,6 +88,7 @@ Reçus en massothérapie ou kinésithérapie (F.Q.M.)
 </tbody></table>
 
 Reçu en naturopathie (ANPQ)
+
 
 #### Détails sur la première rencontre en herboristerie-naturopathie
 D’une durée de 75 à 90 minutes, la première rencontre comprend:
