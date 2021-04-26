@@ -34,7 +34,7 @@ Les annulations faites à moins de 24h d’avis occasionneront des frais de 50$.
 
 Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
 
-Merci de votre compréhension et de collaboration !
+Merci de votre compréhension et de votre collaboration !
 
 ![PB062232 2.jpeg](/uploads/PB062232%202.jpeg)
 
