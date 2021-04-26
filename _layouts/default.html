@@ -6,6 +6,12 @@
     <div class="container">
       {{ content }}
     </div>
+    {% if a_noter}
+    <div class="alert alert-dark" role="alert">
+    <h2>À noter</h2>
+    {{ a_noter }}
+    </div>
+    { %endif }
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
   </body>
