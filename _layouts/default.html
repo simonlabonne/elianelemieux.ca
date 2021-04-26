@@ -13,9 +13,9 @@
       </div>
     {% endif %}
     { if page.page_masssage %}
-    {% for massage in site.massages %}
-      <h2>{{ massage.title }}</h2>
-      {{ massage.content }}
+      {% for massage in site.massages %}
+        <h2>{{ massage.title }}</h2>
+        {{ massage.content }}
       {% endfor %}
     {% endif %}
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
