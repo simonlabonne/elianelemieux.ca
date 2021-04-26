@@ -24,7 +24,6 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 <li>Apaisement mental;</li>
 </ul>
 </div>
-
 <div class="col">
 <ul>
 <li>Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;</li>
@@ -34,8 +33,8 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 <li>Etc.</li>
 </ul>
 </div>
-
 </div>
+
 
 Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
 
