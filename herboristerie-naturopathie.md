@@ -22,7 +22,7 @@ Cette approche implique également une compréhension de l'interdépendance des 
 
 L’objectif de l'herboriste-naturopathe est de soulager les symptômes sans épuiser le système, de travailler sur la source du problème de santé en ciblant les déséquilibres présents et de faire un travail de fond en nourrissant et en fortifiant l’organisme de façon globale.
 
-## Fonctionnement d’une consultation
+## Déroulement d’une consultation
 
 Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie de la personne qui consulte : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle et personnelle, etc.
 
