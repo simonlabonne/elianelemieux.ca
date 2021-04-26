@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   massages:
     title: Massages
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
