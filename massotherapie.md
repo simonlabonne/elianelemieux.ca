@@ -24,6 +24,7 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 <li>Apaisement mental;</li>
 </ul>
 </div>
+
 <div class="col">
 <ul>
 <li>Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;<li>
@@ -33,14 +34,14 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 <li>Etc.</li>
 </ul>
 </div>
-</div>
 
-![DSC_0224.jpeg](/uploads/DSC_0224.jpeg)\
-*(Photo : Ton ami)*
+</div>
 
 Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
 
 J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
+
+![DSC_0284 4.jpeg](/uploads/DSC_0284%204.jpeg)
 
 <div class="accordion" id="accordion">
 <div class="card">
