@@ -3,6 +3,8 @@ title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
 ---
 
+![DSC_0693.jpeg](/uploads/DSC_0693.jpeg)
+
 ## Horaire
 <table class="table table-striped">
 <tbody><tr>
