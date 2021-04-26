@@ -4,8 +4,8 @@ hide_footer: true
 hide_hero: true
 ---
 
-
 ![PB062237.jpeg](/uploads/PB062237.jpeg)
+
 # Massothérapie
 
 La massothérapie est une thérapie par le toucher ayant une action bénéfique tant au niveau physique que psychique.
@@ -64,11 +64,25 @@ J’opte généralement pour une approche mixte à moins d’une demande spécif
 
 * [Massage adapté à la femme enceinte](#massage-adapt%C3%A9-%C3%A0-la-femme-enceinte)
 
-### Massage suédois
+<div class="accordion" id="accordion">
+<div class="card">
+<div class="card-header" id="headingOne">
+<h2 class="mb-0">
+<button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+Massage suédois
+</button>
+</h2>
+</div>
 
+<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+<div class="card-body">
 Un des massages les plus connus et datant des années 1800.
 
 Il s’effectue avec de l’huile et vise à travailler les muscles et les tendons, de leurs attaches à leurs insertions, ainsi qu’à avoir un effet sur le retour sanguin. Il procure de la détente, améliore la circulation sanguine, permet d’assouplir la peau et de ramener de la mobilité articulaire. Différentes techniques sont utilisées comme des effleurements, des foulages, des percussions, des frictions, des ébranlements, des vibrations et des drainages.
+</div>
+</div>
+</div>
+</div>
 
 ### Kinésithérapie
 
