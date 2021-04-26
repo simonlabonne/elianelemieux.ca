@@ -97,6 +97,5 @@ Lorsque nous consommons des médicaments, nous les éliminons éventuellement vi
 
 Finalement, à cause de la surutilisation des médicaments et de leur présence dans la biodiversité, certaines bactéries développent une résistance aux antibiotiques proposés actuellement, notamment pour traiter la pneumonie, la tuberculose, la septicémie, la gonorrhée et certaines maladies alimentaires. Cette situation amène la science à se tourner de plus en plus vers les plantes pour trouver des solutions à ce problème préoccupant.
 
-À noter:
-Une consultation en herboristerie-naturopathie ne remplace pas un diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
+
 
