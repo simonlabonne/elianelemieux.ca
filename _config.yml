@@ -8,5 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-remote_theme: chrisrhymes/bulma-clean-theme
-theme_color: rgb(146, 159, 133)
