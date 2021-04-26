@@ -15,19 +15,20 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 
 <div class="row">
 <div class="col">
-* Amélioration de la circulation sanguine et lymphatique;
-* Soulagement des tensions musculaires;
-* Soulagement d'engourdissements causés par des tensions   musculaires;
-* Assouplissement des fascias;
-* Amélioration de la mobilité et de l’amplitude de mouvement;
-* Apaisement mental;
+<ul>
+<li>Amélioration de la circulation sanguine et lymphatique;</li>
+<li>Soulagement des tensions musculaires;</li>
+<li>Soulagement d'engourdissements causés par des tensions   musculaires;</li>
+<li>Assouplissement des fascias;</li>
+<li>Amélioration de la mobilité et de l’amplitude de mouvement;</li>
+<li>Apaisement mental;</li>
 </div>
 <div class="col">
-* Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;
-* Amélioration du sommeil;
-* Amélioration de la capacité de réparation et de régénération de l’organisme;
-* Prise de conscience des tensions présentes, même celles insoupçonnées;
-* Etc.
+<li>Reconnexion avec son corps à travers un toucher thérapeutique et bienveillant;<li>
+<li>Amélioration du sommeil;</li>
+<li>Amélioration de la capacité de réparation et de régénération de l’organisme;</li>
+<li>Prise de conscience des tensions présentes, même celles insoupçonnées;</li>
+<li>Etc.</li>
 </div>
 </div>
 
