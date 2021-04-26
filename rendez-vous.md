@@ -36,9 +36,13 @@ Dans une situation où vous ne pouvez vous présenter pour une raison inattendue
 
 Merci de votre compréhension et de votre collaboration !
 
-![PB062232 2.jpeg](/uploads/PB062232%202.jpeg)
+
 
 ## Mesures mises en place durant la pandémie
+
+
+![PB062232 2.jpeg](/uploads/PB062232%202.jpeg)
+
 
 Des mesures sont mises en place pour assurer la protection de tous.
 
