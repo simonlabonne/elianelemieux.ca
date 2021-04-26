@@ -84,3 +84,9 @@ L’utilisation des plantes médicinales dans ma pratique se fait principalement
 
 Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
 
+
+
+
+<div class="alert alert-dark" role="alert">
+  Texte herboristerie
+</div>
