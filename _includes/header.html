@@ -10,15 +10,15 @@
             </button>
         </div>
         <div class="collapse navbar-collapse" id="navMenu">
-            <div class="navbar-end">
                 {% if site.data.navigation %}
+            <ul class="navbar-nav">
                 {% for item in site.data.navigation %}
-                <li class="nav-item active">
-                    <a class="nav-link {% if item.link == page.url %}active{% endif %}" href="{{ item.link | relative_url }}">{{ item.name }}</a>
+                <li class="nav-item {% if item.link == page.url %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.link | relative_url }}">{{ item.name }}</a>
                 </li>
                 {% endfor %}
+            </ul>
                 {% endif %}
-            </div>
         </div>
     </div>
 </nav>
