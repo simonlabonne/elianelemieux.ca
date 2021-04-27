@@ -4,6 +4,8 @@ hide_footer: true
 hide_hero: true
 ---
 
+![mint-3668345_1920.jpg](/uploads/mint-3668345_1920.jpg)
+
 # Prendre rendez-vous
 
 <p>
