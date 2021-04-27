@@ -6,7 +6,7 @@ a_noter: Une consultation en herboristerie-naturopathie ne remplace en aucun cas
   diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
 ---
 
-![dandelion-335662_1920.jpg](/uploads/dandelion-335662_1920.jpg)
+![mallow-5324571_1920.jpg](/uploads/mallow-5324571_1920.jpg)
 
 # Herboristerie-naturopathie
 
