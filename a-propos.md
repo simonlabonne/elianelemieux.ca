@@ -21,7 +21,9 @@ Plus de 4000 heures de formation :
 (Formation de thérapeute à l’Herbothèque) 
 - Formation continue depuis mes débuts :
   - Massages pour femmes enceintes 
-  - Réflexologie des pieds 
+  - Réflexologie des pieds
+  - Massage pour bébé et enfant
+  - Initiation au Trager
   - Fasciathérapie 
   - Lomi-atsu 
   - Massage viscéral 
