@@ -4,7 +4,7 @@ hide_footer: true
 hide_hero: true
 ---
 
-![1er choix -ec713e.jpeg](/uploads/1er%20choix%20-ec713e.jpeg)
+![IMG_2917.jpeg](/uploads/IMG_2917.jpeg)
 
 Thérapeute depuis 2001, j’accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité. Mon approche est axée sur le respect, l’écoute, l’honnêteté et l’expérience. Un juste mélange entre le ressenti et la science.
 
