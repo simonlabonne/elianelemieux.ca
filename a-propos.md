@@ -22,7 +22,7 @@ Plus de 4000 heures de formation :
 - Formation continue depuis mes débuts :
   - Massages pour femmes enceintes 
   - Réflexologie des pieds
-  - Massage pour bébé et enfant
+  - Massage pour bébés et enfants
   - Initiation au Trager
   - Fasciathérapie 
   - Lomi-atsu 
