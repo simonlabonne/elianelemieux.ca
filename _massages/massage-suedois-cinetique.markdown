@@ -1,6 +1,7 @@
 ---
 title: Massage suédois cinétique
 date: 2021-04-26 17:35:00 -04:00
+position: 0
 ---
 
 Un des massages les plus connus et datant des années 1800.
