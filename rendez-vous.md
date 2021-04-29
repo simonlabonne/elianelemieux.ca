@@ -25,12 +25,11 @@ Montréal (Québec)  H2B 2R5
 </div>
 </div>
 
+* ## Politique d’annulation
 
-- POLITIQUE D’ANNULATION 
+Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important.
 
-Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important. 
-
-Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous. 
+Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
 
 Les annulations faites à moins de 24h d’avis occasionneront des frais de 50$. Si vous ne vous présentez pas à votre rendez-vous, vous devrez assumer la totalité des frais de la séance.
 
@@ -38,13 +37,9 @@ Dans une situation où vous ne pouvez vous présenter pour une raison inattendue
 
 Merci de votre compréhension et de votre collaboration !
 
-
-
 ## Mesures mises en place durant la pandémie
 
-
 ![PB062232 2.jpeg](/uploads/PB062232%202.jpeg)
-
 
 Des mesures sont mises en place pour assurer la protection de tous.
 
