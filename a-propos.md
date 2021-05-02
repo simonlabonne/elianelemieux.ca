@@ -13,28 +13,45 @@ Convaincue de l’interrelation entre la santé physique et psychique, l’alime
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
 ## Formations
+
 Plus de 4000 heures de formation :
 
-- Diplôme en [masso-kinésithérapie](/massotherapie)
-(Formation chez kiné-concept)
-- Diplôme en [herboristerie-naturopathie](/herboristerie-naturopathie)
-(Formation de thérapeute à l’Herbothèque) 
-- Formation continue depuis mes débuts :
-  - Massages pour femmes enceintes 
-  - Réflexologie des pieds
-  - Massage pour bébés et enfants
-  - Initiation au Trager
-  - Fasciathérapie 
-  - Lomi-atsu 
-  - Massage viscéral 
-  - Tissus profonds 
-  - Drainage lymphatique Vodder 
-  - Ventouses thérapeutiques 
-  - Plantes et alcaloïdes 
-  - Cancer du sein et plantes médicinales
+* Diplôme en [masso-kinésithérapie](/massotherapie)
+  \(Formation chez [Kiné-Concept](https://www.kineconcept.com/fr/))
+
+* Diplôme en [herboristerie-naturopathie](/herboristerie-naturopathie)
+  \(Formation de thérapeute à l’[Herbothèque](https://herbotheque.com/))
+
+* Formation continue depuis mes débuts :
+
+  * Massages pour femmes enceintes
+
+  * Réflexologie des pieds
+
+  * Massage pour bébés et enfants
+
+  * Initiation au Trager
+
+  * Fasciathérapie
+
+  * Lomi-atsu
+
+  * Massage viscéral
+
+  * Tissus profonds
+
+  * Drainage lymphatique Vodder
+
+  * Ventouses thérapeutiques
+
+  * Plantes et alcaloïdes
+
+  * Cancer du sein et plantes médicinales
 
 ## Expériences
+
 Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
 
 ## Collaborations et référencement
+
 Dans certains cas, un suivi avec différents professionnel.le.s peut favoriser l’atteinte de résultats. Je n’hésite pas à référer et à collaborer au besoin (ostéopathes, physiothérapeutes, chiropraticien.ne.s, acupuncteur.trice.s, podiatres, psychologues, dentistes, etc.).
