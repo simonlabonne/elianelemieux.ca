@@ -33,7 +33,7 @@ date: 2021-04-26 16:28:00 -04:00
 
 
 
-- Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.
+<p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
 
 
 
