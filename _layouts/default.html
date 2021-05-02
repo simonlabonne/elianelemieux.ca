@@ -3,6 +3,9 @@
   {% include head.html %}
   <body>
     {% include header.html %}
+    {% if page.top_image %}
+    <div style="height:300px; width:100%; background-size:cover; background:url(' {{ page.top_image }} ');"></div>
+    {% endif %}
     <div class="container">
       {{ content }}
     </div>
