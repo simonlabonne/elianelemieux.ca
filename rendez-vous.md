@@ -9,7 +9,7 @@ hide_hero: true
 # Prendre rendez-vous
 
 <p>
-<a href="tel:514-299-3617"><i class="fa fa-phone-alt"></i> 514-299-3617</a><br>
+<a href="tel:514-299-3617"><i class="fa fa-phone"></i> 514-299-3617</a><br>
 <a href="mailto:info@elianelemieux.ca"><i class="fa fa-envelope"></i> info@elianelemieux.ca</a>
 </p>
 <p>
