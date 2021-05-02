@@ -31,12 +31,11 @@ body {
 }
 
 h1, h2, h3 {
-//     font-family: 'Open Sans Condensed', sans-serif;
     font-family: 'Cutive Mono', monospace;
 }
 
 h2 {
-    color: #a7b293
+    color: $bleu;
 }
 
 img {
@@ -48,7 +47,7 @@ img {
 }
 
 .alert-dark {
-    background: #c1cab0;
+    background: $bleu;
     text-align: center;
     margin: 0;
     h2 {
