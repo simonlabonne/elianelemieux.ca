@@ -1,6 +1,6 @@
 ---
 title: Éliane Lemieux
-subtitle: "Masso-kinésithérapeute et \nherboriste-naturopathe"
+subtitle: J'ai beau m'appeler Lemieux, ce que je veux c'est le meilleur
 hero_image: "/uploads/DSC_0294.jpeg"
 hero_height: is-fullheight
 hero_link: "/rendez-vous"
