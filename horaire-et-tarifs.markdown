@@ -96,9 +96,9 @@ Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Associa
 
 
 
-#### Détails sur la première rencontre en herboristerie-naturopathie
+### Détails sur la première rencontre en herboristerie-naturopathie
 
-D’une durée de 75 à 90 minutes, la première rencontre comprend:
+D’une durée de 75 à 90 minutes, la première rencontre comprend :
 
 - Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion;
 - Diverses recommandations sur l’alimentation et l’hygiène de vie;
