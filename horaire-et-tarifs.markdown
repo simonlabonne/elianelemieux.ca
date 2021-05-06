@@ -64,14 +64,14 @@ date: 2021-04-26 16:28:00 -04:00
 </tr>
 </tbody></table>
 
-Reçus en massothérapie ou kinésithérapie ([Fédération québécoise des massothérapeutes](https://www.fqm.qc.ca/){target="_blank"})
+Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)
 
 
 
 ### Herboristerie
 <table class="table table-striped">
 <tbody><tr>
-<td>1<sup>re</sup> rencontre</td>
+<td>1<sup>re</sup> rencontre, ouverture de dossier</td>
 <td class="has-text-right">145 $</td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ Reçus en massothérapie ou kinésithérapie ([Fédération québécoise des mas
 </tr>
 </tbody></table>
 
-Reçu en naturopathie ([Association des Naturopathes Professionnels du Québec](https://www.anpq.qc.ca/){target="_blank"})
+Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Association des Naturopathes Professionnels du Québec</a>)
 
 
 
