@@ -64,7 +64,7 @@ date: 2021-04-26 16:28:00 -04:00
 </tr>
 </tbody></table>
 
-Reçus en massothérapie ou kinésithérapie (FQM)
+Reçus en massothérapie ou kinésithérapie ([Fédération québécoise des massothérapeutes](https://www.fqm.qc.ca/){target="_blank"})
 
 
 
@@ -92,7 +92,7 @@ Reçus en massothérapie ou kinésithérapie (FQM)
 </tr>
 </tbody></table>
 
-Reçu en naturopathie (ANPQ)
+Reçu en naturopathie ([Association des Naturopathes Professionnels du Québec](https://www.anpq.qc.ca/){target="_blank"})
 
 
 
