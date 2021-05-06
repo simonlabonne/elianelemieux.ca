@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  herboristerie:
+    title: herboristerie
+    output: true
 sass:
   style: compressed
   source_dir: _sass

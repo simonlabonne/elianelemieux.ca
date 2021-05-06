@@ -1,7 +1,7 @@
 ---
 title: Horaire et tarifs
-layout: rendez-vous
 date: 2021-04-26 16:28:00 -04:00
+layout: rendez-vous
 image: "/uploads/sage-4516894_1920.jpg"
 intro: |-
   <table class="table table-striped">
