@@ -1,5 +1,6 @@
 ---
 title: Prendre rendez-vous
+layout: rendez-vous
 map: |-
   <div class="columns">
   <div class="column is-one-quarter">
