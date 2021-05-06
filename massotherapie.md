@@ -5,7 +5,7 @@ hide_hero: true
 layout: massotherapie
 ---
 
-![PB062237.jpeg](/uploads/PB062237.jpeg)
+![PB062237.jpg](/uploads/PB062237.jpg)
 
 # Massothérapie
 
