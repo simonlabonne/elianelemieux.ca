@@ -6,20 +6,19 @@
     <div class="container">
       {{ content }}
     </div>
-    {% if page.a_noter %}
-      <div class="alert alert-dark pt-5 pb-5" role="alert">
-        <h2>À noter</h2>
-        <p>{{ page.a_noter }}</p>
-      </div>
-    {% endif %}
     {% if page.page_masssage %}
       {% for massage in site.massages %}
         <h2>{{ massage.title }}</h2>
         {{ massage.content }}
       {% endfor %}
     {% endif %}
-    
     <div style="display:block; padding-bottom:4rem;"></div>
+    {% if page.a_noter %}
+      <div class="alert alert-dark pt-5 pb-5" role="alert">
+        <h2>À noter</h2>
+        <p>{{ page.a_noter }}</p>
+      </div>
+    {% endif %}
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
     <script src="/assets/js/accordion.js"></script>
