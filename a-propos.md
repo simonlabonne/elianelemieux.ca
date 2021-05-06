@@ -22,29 +22,17 @@ Plus de 4000 heures de formation :
   \(Formation de thérapeute à l’[Herbothèque](https://herbotheque.com/){:target="_blank"})
 
 * Formation continue depuis mes débuts :
-
   * Massages pour femmes enceintes
-
   * Réflexologie des pieds
-
   * Massage pour bébés et enfants
-
   * Initiation au Trager
-
   * Fasciathérapie
-
   * Lomi-atsu
-
   * Massage viscéral
-
   * Tissus profonds
-
   * Drainage lymphatique Vodder
-
   * Ventouses thérapeutiques
-
   * Plantes et alcaloïdes
-
   * Cancer du sein et plantes médicinales
 
 ## Expériences
