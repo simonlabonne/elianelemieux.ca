@@ -1,7 +1,6 @@
 ---
 title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
-layout: rendez-vous
 image: "/uploads/sage-4516894_1920.jpg"
 intro: |-
   <table class="table table-striped">
@@ -26,8 +25,8 @@ intro: |-
   <td>9 h à 14 h 30</td>
   </tr>
   </tbody></table>
-
   <p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
+layout: rendez-vous
 ---
 
 ## Tarifs (taxes incluses dans les prix présentés)
