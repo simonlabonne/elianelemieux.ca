@@ -1,44 +1,35 @@
 ---
 title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
+image: "/uploads/sage-4516894_1920.jpg"
+intro: |-
+  <table class="table table-striped">
+  <tbody><tr>
+  <td>Lundi</td>
+  <td>9 h à 14 h 30</td>
+  </tr>
+  <tr>
+  <td>Mardi</td>
+  <td>11 h à 19 h</td>
+  </tr>
+  <tr>
+  <td>Mercredi</td>
+  <td>11 h à 19 h</td>
+  </tr>
+  <tr>
+  <td>Jeudi</td>
+  <td>10 h 30 à 14 h</td>
+  </tr>
+  <tr>
+  <td>Vendredi</td>
+  <td>9 h à 14 h 30</td>
+  </tr>
+  </tbody></table>
+
+  <p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
 ---
 
-
-![sage-4516894_1920.jpg](/uploads/sage-4516894_1920.jpg)
-
-
-## Horaire
-<table class="table table-striped">
-<tbody><tr>
-<td>Lundi</td>
-<td>9 h à 14 h 30</td>
-</tr>
-<tr>
-<td>Mardi</td>
-<td>11 h à 19 h</td>
-</tr>
-<tr>
-<td>Mercredi</td>
-<td>11 h à 19 h</td>
-</tr>
-<tr>
-<td>Jeudi</td>
-<td>10 h 30 à 14 h</td>
-</tr>
-<tr>
-<td>Vendredi</td>
-<td>9 h à 14 h 30</td>
-</tr>
-</tbody></table>
-
-
-
-<p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
-
-
-
 ## Tarifs (taxes incluses dans les prix présentés)
-
 
 ### Massothérapie
 <table class="table table-striped">
