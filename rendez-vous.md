@@ -1,29 +1,27 @@
 ---
 title: Prendre rendez-vous
+map: |-
+  <div class="columns">
+  <div class="column is-one-quarter">
+  <figure class="image is-16by9">
+  <iframe class="has-ratio" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2077.733928162563!2d-73.65250587919157!3d45.57580869590193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f4f7a9d7331%3A0x3ecd0ec5f047589b!2s10574%20Rue%20de%20Lille%2C%20Montr%C3%A9al%2C%20QC%20H2B%202R5!5e0!3m2!1sen!2sca!4v1613080846052!5m2!1sen!2sca" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </figure>
+  </div>
+  </div>
+contact: |-
+  <p>
+  <a href="tel:514-299-3617"><i class="fa fa-phone"></i> 514-299-3617</a><br>
+  <a href="mailto:info@elianelemieux.ca"><i class="fa fa-envelope"></i> info@elianelemieux.ca</a>
+  </p>
+  <p>
+  10574-A (porte de droite), rue De Lille<br>
+  Montréal (Québec)  H2B 2R5
+  </p>
 hide_footer: true
 hide_hero: true
 ---
 
 ![mint-3668345_1920.jpg](/uploads/mint-3668345_1920.jpg)
-
-# Prendre rendez-vous
-
-<p>
-<a href="tel:514-299-3617"><i class="fa fa-phone"></i> 514-299-3617</a><br>
-<a href="mailto:info@elianelemieux.ca"><i class="fa fa-envelope"></i> info@elianelemieux.ca</a>
-</p>
-<p>
-10574-A (porte de droite), rue De Lille<br>
-Montréal (Québec)  H2B 2R5
-</p>
-
-<div class="columns">
-<div class="column is-one-quarter">
-<figure class="image is-16by9">
-<iframe class="has-ratio" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2077.733928162563!2d-73.65250587919157!3d45.57580869590193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f4f7a9d7331%3A0x3ecd0ec5f047589b!2s10574%20Rue%20de%20Lille%2C%20Montr%C3%A9al%2C%20QC%20H2B%202R5!5e0!3m2!1sen!2sca!4v1613080846052!5m2!1sen!2sca" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-</figure>
-</div>
-</div>
 
 ## Politique d’annulation
 
