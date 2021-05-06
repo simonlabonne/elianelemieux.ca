@@ -64,7 +64,7 @@ date: 2021-04-26 16:28:00 -04:00
 </tr>
 </tbody></table>
 
-Reçus en massothérapie ou kinésithérapie (F.Q.M.)
+Reçus en massothérapie ou kinésithérapie (FQM)
 
 
 
