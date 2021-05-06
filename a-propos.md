@@ -2,15 +2,14 @@
 title: À propos
 hide_footer: true
 hide_hero: true
+intro: |-
+  Thérapeute depuis 2001, j’accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité. Mon approche est axée sur le respect, l’écoute, l’honnêteté et l’expérience. Un juste mélange entre le ressenti et la science.
+
+  Convaincue de l’interrelation entre la santé physique et psychique, l’alimentation, l’hygiène de vie et l’environnement, je porte attention à divers aspects et détails pouvant optimiser le retour à la santé et au mieux-être.
+
+  Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
+image: "/uploads/IMG_2917.jpeg"
 ---
-
-![IMG_2917.jpeg](/uploads/IMG_2917.jpeg)
-
-Thérapeute depuis 2001, j’accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité. Mon approche est axée sur le respect, l’écoute, l’honnêteté et l’expérience. Un juste mélange entre le ressenti et la science.
-
-Convaincue de l’interrelation entre la santé physique et psychique, l’alimentation, l’hygiène de vie et l’environnement, je porte attention à divers aspects et détails pouvant optimiser le retour à la santé et au mieux-être.
-
-Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
 ## Formations
 
