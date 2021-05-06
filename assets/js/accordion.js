@@ -1,10 +1,10 @@
 $(document).ready(function(){
     $(".collapse.show").each(function(){
-      $(this).prev(".card-header").find(".fa").addClass("fa-minus").removeClass("fa-plus");
+      $(this).prev(".card-header").find(".fa").addClass("fa-chevron-up").removeClass("fa-chevron-down");
     });
     $(".collapse").on('show.bs.collapse', function(){
-      $(this).prev(".card-header").find(".fa").removeClass("fa-plus").addClass("fa-minus");
+      $(this).prev(".card-header").find(".fa").removeClass("fa-chevron-down").addClass("fa-chevron-up");
     }).on('hide.bs.collapse', function(){
-      $(this).prev(".card-header").find(".fa").removeClass("fa-minus").addClass("fa-plus");
+      $(this).prev(".card-header").find(".fa").removeClass("fa-chevron-up").addClass("fa-chevron-down");
     });
 });
