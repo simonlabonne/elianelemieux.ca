@@ -29,7 +29,7 @@ intro: |-
 layout: rendez-vous
 ---
 
-## Tarifs (taxes incluses dans les prix présentés)
+<h2>Tarifs<br><small>(taxes incluses dans les prix présentés)</small></h2>
 
 ### Massothérapie
 <table class="table table-striped">
@@ -87,7 +87,7 @@ Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Associa
 
 
 
-### Détails sur la première rencontre en herboristerie-naturopathie
+## Détails sur la première rencontre en herboristerie-naturopathie
 
 D’une durée de 75 à 90 minutes, la première rencontre comprend :
 
