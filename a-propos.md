@@ -2,6 +2,7 @@
 title: À propos
 hide_footer: true
 hide_hero: true
+layout: a-propos
 intro: |-
   Thérapeute depuis 2001, j’accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité. Mon approche est axée sur le respect, l’écoute, l’honnêteté et l’expérience.
 
