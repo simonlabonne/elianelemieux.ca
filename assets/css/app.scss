@@ -2,6 +2,7 @@
 ---
 
 $vert: rgb(146, 159, 133);
+$vertf: rgb(167, 178, 147);
 
 $fusion: rgb(54, 102, 106);
 $bleu: rgb(94, 142, 142);
@@ -9,7 +10,7 @@ $oslo: rgb(72, 91, 97);
 
 $primary: $vert;
 $link: $vert;
-$body-color: $vert;
+$body-color: $vertf;
 
 @import "main";
 
