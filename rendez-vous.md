@@ -1,6 +1,6 @@
 ---
 title: Prendre rendez-vous
-layout: rendez-vous
+image: "/uploads/mint-3668345_1920.jpg"
 map: |-
   <div class="columns">
   <div class="column is-one-quarter">
@@ -11,8 +11,8 @@ map: |-
   </div>
 contact: |-
   <p>
-  <a href="tel:514-299-3617"><i class="fa fa-phone"></i> 514-299-3617</a><br>
-  <a href="mailto:info@elianelemieux.ca"><i class="fa fa-envelope"></i> info@elianelemieux.ca</a>
+  Par téléphone : <a href="tel:514-299-3617">514 299-3617</a><br>
+  Par courriel : <a href="mailto:info@elianelemieux.ca">info@elianelemieux.ca</a>
   </p>
   <p>
   10574-A (porte de droite), rue De Lille<br>
@@ -20,6 +20,7 @@ contact: |-
   </p>
 hide_footer: true
 hide_hero: true
+layout: rendez-vous
 ---
 
 ![mint-3668345_1920.jpg](/uploads/mint-3668345_1920.jpg)
