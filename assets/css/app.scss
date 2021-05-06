@@ -7,9 +7,9 @@ $fusion: rgb(54, 102, 106);
 $bleu: rgb(94, 142, 142);
 $oslo: rgb(72, 91, 97);
 
-$primary: $fusion;
-$link: $bleu;
-$body-color: $oslo;
+$primary: $vert;
+$link: $vert;
+$body-color: $vert;
 
 @import "main";
 
@@ -48,7 +48,7 @@ img {
 }
 
 .alert-dark {
-    background: $bleu;
+    background: #5a6b7b;
     text-align: center;
     margin: 0;
     h2 {
