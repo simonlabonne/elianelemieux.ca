@@ -8,7 +8,7 @@ intro: |-
   <p>Un juste mélange entre le ressenti et la science. Convaincue de l’interrelation entre la santé physique et psychique, l’alimentation, l’hygiène de vie et l’environnement, je porte attention à divers aspects et détails pouvant optimiser le retour à la santé et au mieux-être.</p>
 
   <p>Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.</p>
-image: "/uploads/IMG_2917.jpeg"
+image: "/uploads/1er%20choix%20.jpeg"
 layout: a-propos
 ---
 
