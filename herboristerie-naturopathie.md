@@ -20,7 +20,3 @@ intro: |-
 image: "/uploads/mallow-5324571_1920.jpg"
 ---
 
-
-
-
-

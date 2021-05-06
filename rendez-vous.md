@@ -37,14 +37,10 @@ Merci de votre compréhension et de votre collaboration !
 
 ## Mesures mises en place durant la pandémie
 
-![PB062232 2.jpeg](/uploads/PB062232%202.jpeg)
+<img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;">
 
 Des mesures sont mises en place pour assurer la protection de tous.
-
 * Les lieux en plus de la literie sont nettoyés entre chaque personne;
-
 * Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
-
 * Du savon à main sans rinçage est à votre disposition ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
-
 * Le port du masque de procédure médicale est obligatoire durant toute la rencontre. Il vous est fourni au besoin.
