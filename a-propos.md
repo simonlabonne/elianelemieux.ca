@@ -8,7 +8,7 @@ intro: |-
   <p>Convaincue de l’interrelation entre la santé physique et psychique, l’alimentation, l’hygiène de vie et l’environnement, je porte attention à divers aspects et détails pouvant optimiser le retour à la santé et au mieux-être.</p>
 
   <p>Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.</p>
-image: "/uploads/1er%20choix%20.jpeg"
+image: "/uploads/1er%20choix%20-ec713e.jpeg"
 layout: a-propos
 ---
 
