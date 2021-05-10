@@ -21,6 +21,8 @@ formations: |+
   \(Formation de thérapeute à l’[Herbothèque](https://herbotheque.com/){:target="_blank"})<\li>
   <li>
   Formation continue depuis mes débuts :
+  <div class="row">
+  <div class="col-sm">
   <ul>
   <li>Massages pour femmes enceintes</li>
   <li>Réflexologie des pieds</li>
@@ -29,6 +31,8 @@ formations: |+
   <li>Fasciathérapie</li>
   <li>Lomi-atsu</li>
   </ul>
+  </div>
+  <div class="col-sm">
   <ul>
   <li>Massage viscéral</li>
   <li>Tissus profonds</li>
@@ -37,6 +41,8 @@ formations: |+
   <li>Plantes et alcaloïdes</li>
   <li>Cancer du sein et plantes médicinales</li>
   </ul>
+  </div>
+  </div>
   </li>
   </ul>
 
