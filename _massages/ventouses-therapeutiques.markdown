@@ -10,4 +10,4 @@ Elles peuvent être utilisées soit en glissement, ou en les laissant agir de 10
 
 L’utilisation des ventouses dans ma pratique se fait avec l’accord de la personne et après vérification de l’absence de toute contre-indication.
 
-Il est à noter que l’application de ventouses peut parfois laisser des marques sur la peau pouvant durer de quelques heures à 2 semaines selon les cas. Ces marques sont dues à l’extravasion du sang et ne sont pas douloureuses puisqu’il ne s’agit pas de bleus causés par un bris de vaisseaux sanguins.
+Il est à noter que l’application de ventouses peut parfois laisser des marques sur la peau pouvant durer de quelques heures à 2 semaines selon les cas. Ces marques sont dues à l’extravasion du sang et ne sont pas douloureuses puisqu’il ne s’agit pas d'ecchymoses causés par un bris de vaisseaux sanguins.
