@@ -25,6 +25,7 @@ contact: |-
   <td>9 h à 14 h 30</td>
   </tr>
   </tbody></table>
+  <p>&nbsp;</p>
   <p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
 layout: horaire-et-tarifs
 ---
