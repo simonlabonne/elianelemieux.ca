@@ -23,6 +23,8 @@ hide_hero: true
 layout: rendez-vous
 ---
 
+<p>&nbsp;</p>
+
 ## Politique d’annulation
 
 Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important.
