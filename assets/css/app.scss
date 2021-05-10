@@ -112,9 +112,13 @@ li {
 }
 
 .tab-pane {
-    margin-top:1rem;
+    margin-top: 2rem;
 }
 
 .card-header {
     background-color: transparent;
+}
+
+.nav-tabs .nav-link {
+    font-size: 1.25rem;
 }
