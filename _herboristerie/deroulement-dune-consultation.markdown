@@ -7,7 +7,7 @@ Une rencontre en herboristerie-naturopathie comprend un questionnaire complet pe
 
 En plus de fournir une foule d’informations nécessaires à l’herboriste pour le choix des plantes et recommandations, cette première étape fait partie intégrante du processus de retour à la santé. Elle permet d’avoir une vue d’ensemble, de prendre conscience des déséquilibres et symptômes présents, de se responsabiliser, de développer une autonomie face à sa santé et d’être davantage à l’écoute des signaux lancés par son corps ou sa psyché.
 
-**Pourquoi consulter en herboristerie-naturopathie?**
+## Pourquoi consulter en herboristerie-naturopathie?
 
 En plus de proposer divers outils permettant d’optimiser la santé globale, l’herboristerie peut être efficace pour plusieurs problèmes de santé :
 
@@ -35,7 +35,7 @@ En plus de proposer divers outils permettant d’optimiser la santé globale, l�
 
 * Et plus encore…
 
-**L’efficacité des plantes médicinales**
+## L’efficacité des plantes médicinales
 
 Les plantes médicinales contiennent des principes actifs étudiés et utilisés scientifiquement.
 
