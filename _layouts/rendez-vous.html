@@ -9,7 +9,7 @@ layout: default
     <img src="{{ page.image }}">
   </div>
   <div class="col-sm-auto">
-    {{ page.contact }}
+    {{ page.contact | markdownify }}
     
     {{ page.map }}
   </div>
