@@ -2,7 +2,7 @@
 title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
 image: "/uploads/sage-4516894_1920.jpg"
-intro: |-
+contact: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>Lundi</td>
