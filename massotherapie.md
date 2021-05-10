@@ -1,7 +1,10 @@
 ---
 title: Massothérapie
-hide_footer: true
-hide_hero: true
+image: "/uploads/DSC_0284%204.jpeg"
+texte2: |-
+  Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
+
+  J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
 layout: massotherapie
 ---
 
@@ -37,10 +40,3 @@ Elle est profitable autant en prévention que pour maintenir l’équilibre ou p
 </ul>
 </div>
 </div>
-
-
-<img src="/uploads/DSC_0284%204.jpeg"/ style="float:left;margin-right:2rem;">
-
-<p>Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.</p>
-
-<p>J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.</p>
