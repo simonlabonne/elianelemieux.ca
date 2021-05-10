@@ -1,7 +1,7 @@
 ---
 title: Fasciathérapie
 date: 2021-04-26 17:38:00 -04:00
-position: 3
+position: 4
 ---
 
 Les fascias sont des tissus conjonctifs translucides et malléables présents un peu partout dans le corps et interreliés. Ils enveloppent les muscles, les os, les artères et les organes. Ces tissus jouent un rôle de support et participent à la fluidité de mouvement tant au niveau de la structure que des organes.

@@ -1,7 +1,7 @@
 ---
 title: Ventouses thérapeutiques
 date: 2021-04-26 17:38:00 -04:00
-position: 5
+position: 6
 ---
 
 Les ventouses en silicones sont utilisées en complément au massage pour travailler des zones congestionnées, douloureuses ou particulièrement tendues.

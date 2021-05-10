@@ -1,7 +1,7 @@
 ---
 title: Drainage lymphatique Vodder
 date: 2021-04-26 17:37:00 -04:00
-position: 2
+position: 3
 ---
 
 #### Qu’est-ce que le système lymphatique?

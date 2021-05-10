@@ -1,7 +1,7 @@
 ---
 title: Massage adapté à la femme enceinte
 date: 2021-04-26 17:39:00 -04:00
-position: 8
+position: 9
 ---
 
 Massage tenant compte des besoins en lien avec l’évolution de la grossesse et évitant certaines zones ou techniques contre-indiquées durant cette période haute en bouleversements. Le massage peut s’effectuer sur un coussin spécialisé permettant à la femme enceinte d’être couchée sur le ventre durant le massage sans pression ni danger pour le bébé et ce, tout au long de l’évolution de la grossesse.
