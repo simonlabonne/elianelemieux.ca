@@ -9,14 +9,6 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
   santé et au mieux-être.\n\nJe pratique à mon bureau privé, dans une ambiance professionnelle,
   calme et chaleureuse."
 image: "/uploads/1er%20choix%20.jpeg"
-experiences: |-
-  ## Expériences
-
-  Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
-collaborations: |-
-  ## Collaborations et référencement
-
-  Dans certains cas, un suivi avec différents professionnel.le.s peut favoriser l’atteinte de résultats. Je n’hésite pas à référer et à collaborer au besoin (ostéopathes, physiothérapeutes, chiropraticien.ne.s, acupuncteur.trice.s, podiatres, psychologues, dentistes, etc.).
 formations: |+
   <h2>Formations</h2>
 
@@ -48,6 +40,14 @@ formations: |+
   <\li>
   </ul>
 
+experiences: |-
+  ## Expériences
+
+  Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
+collaborations: |-
+  ## Collaborations et référencement
+
+  Dans certains cas, un suivi avec différents professionnel.le.s peut favoriser l’atteinte de résultats. Je n’hésite pas à référer et à collaborer au besoin (ostéopathes, physiothérapeutes, chiropraticien.ne.s, acupuncteur.trice.s, podiatres, psychologues, dentistes, etc.).
 layout: a-propos
 ---
 
