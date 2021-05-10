@@ -3,7 +3,7 @@ title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
 image: "/uploads/sage-4516894_1920.jpg"
 contact: |-
-  <table class="table table-striped">
+  <table class="table table-striped" style="width:100%">
   <tbody><tr>
   <td>Lundi</td>
   <td>9 h à 14 h 30</td>
