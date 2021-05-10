@@ -9,7 +9,7 @@ intro: |-
 
   <p>Tant sur le plan écologique que biologique, la pratique de l'herboristerie prend en considération l'interdépendance des organismes vivants. Ainsi, l'herboriste choisit ou prépare des concoctions de qualité tout en assurant la pérennité des plantes cultivées ou récoltées. Cette préoccupation se retrouve également dans le choix d'ingrédients sains présents dans les transformations (huiles, cires ou émulsifiants, huiles essentielles, etc.).</p>
 
-  <p>La naturopathie, quant à elle, est une médecine visant à maintenir et/ou rétablir l’équilibre et la santé de façon globale par des moyens naturels.</p>
+  <p>La naturopathie, quant à elle, est une médecine visant à maintenir et/ou à rétablir l’équilibre et la santé de façon globale par des moyens naturels.</p>
 
   <p>Le mariage de ces deux médecines permet de travailler selon les principes de la naturopathie tout en ayant les connaissances et le savoir-faire de l’herboriste qui est en mesure de suggérer et préparer des mélanges de plantes personnalisés et adaptés aux besoins des personnes qui consultent.</p>
 
