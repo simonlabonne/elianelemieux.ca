@@ -10,14 +10,11 @@ map: |-
   </div>
   </div>
 contact: |-
-  <p>
   Par téléphone : <a href="tel:514-299-3617">514 299-3617</a><br>
   Par courriel : <a href="mailto:info@elianelemieux.ca">info@elianelemieux.ca</a>
-  </p>
-  <p>
+
   10574-A (porte de droite), rue De Lille<br>
   Montréal (Québec)  H2B 2R5
-  </p>
 hide_footer: true
 hide_hero: true
 layout: rendez-vous
