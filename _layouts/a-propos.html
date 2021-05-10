@@ -9,8 +9,12 @@ layout: default
     <img src="{{ page.image }}">
   </div>
   <div class="col-sm">
-    {{ page.intro }}
+    {{ page.intro | markdownify }}
   </div>
 </div>
 
 {{ content }}
+
+{{ page.experiences | markdownify }}
+
+{{ page.collaborations | markdownify }}
