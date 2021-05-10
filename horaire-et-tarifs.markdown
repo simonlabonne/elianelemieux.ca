@@ -26,7 +26,7 @@ contact: |-
   </tr>
   </tbody></table>
   <p class="text-secondary">Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</p>
-layout: rendez-vous
+layout: horaire-et-tarifs
 ---
 
 <h2>Tarifs<br><small>(taxes incluses dans les prix présentés)</small></h2>
