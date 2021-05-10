@@ -4,6 +4,15 @@ layout: default
 
 {{ content }}
 
+<div class="row">
+  <div class="col-sm-auto">
+    {{ page.image }}
+  </div>
+  <div class="col-sm-6">
+    {{ page.texte2 }}
+  </div>
+</div>
+
 <h2>Types de massages</h2>
 <div class="accordion" id="accordionExample">
 {% for massage in site.massages %}
