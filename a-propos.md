@@ -52,6 +52,8 @@ Plus de 4000 heures de formation :
   </ul><\li>
   </ul>
 
+
+
 ## Expériences
 
 Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
