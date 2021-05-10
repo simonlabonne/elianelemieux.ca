@@ -30,14 +30,14 @@ formations: |+
   <li>Lomi-atsu</li>
   </ul>
   <ul>
-  <li>Massage viscéral<li>
-  <li>Tissus profonds<li>
-  <li>Drainage lymphatique Vodder<li>
-  <li> Ventouses thérapeutiques<li>
-  <li>Plantes et alcaloïdes<li>
-  <li>Cancer du sein et plantes médicinales<li>
+  <li>Massage viscéral</li>
+  <li>Tissus profonds</li>
+  <li>Drainage lymphatique Vodder</li>
+  <li> Ventouses thérapeutiques</li>
+  <li>Plantes et alcaloïdes</li>
+  <li>Cancer du sein et plantes médicinales</li>
   </ul>
-  <\li>
+  </li>
   </ul>
 
 experiences: |-
