@@ -23,7 +23,6 @@ hide_hero: true
 layout: rendez-vous
 ---
 
-<br>
 
 ## Politique d’annulation
 
