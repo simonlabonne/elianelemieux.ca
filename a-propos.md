@@ -19,7 +19,7 @@ formations: |+
   <li>Diplôme en <a href="/herboristerie-naturopathie">herboristerie-naturopathie</a> (Formation de thérapeute à l’<a href="https://herbotheque.com/" target="_blank">Herbothèque</a>)<\li>
   <li>
   Formation continue depuis mes débuts :
-  <br>
+  <br><br>
   <div class="row">
   <div class="col-sm">
   <ul>
