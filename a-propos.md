@@ -16,25 +16,41 @@ layout: a-propos
 
 Plus de 4000 heures de formation :
 
-* Diplôme en [masso-kinésithérapie](/massotherapie)
-  \(Formation chez [Kiné-Concept](https://www.kineconcept.com/fr/){:target="_blank"})
+<ul>
+<li>Diplôme en [masso-kinésithérapie](/massotherapie)
+\(Formation chez [Kiné-Concept](https://www.kineconcept.com/fr/){:target="_blank"})</li>
+<li>Diplôme en [herboristerie-naturopathie](/herboristerie-naturopathie)
+\(Formation de thérapeute à l’[Herbothèque](https://herbotheque.com/){:target="_blank"})<\li>
+<li>Formation continue depuis mes débuts :
+<ul>
 
-* Diplôme en [herboristerie-naturopathie](/herboristerie-naturopathie)
-  \(Formation de thérapeute à l’[Herbothèque](https://herbotheque.com/){:target="_blank"})
+* Massages pour femmes enceintes
 
-* Formation continue depuis mes débuts :
-  * Massages pour femmes enceintes
-  * Réflexologie des pieds
-  * Massage pour bébés et enfants
-  * Initiation au Trager
-  * Fasciathérapie
-  * Lomi-atsu
-  * Massage viscéral
-  * Tissus profonds
-  * Drainage lymphatique Vodder
-  * Ventouses thérapeutiques
-  * Plantes et alcaloïdes
-  * Cancer du sein et plantes médicinales
+* Réflexologie des pieds
+
+* Massage pour bébés et enfants
+
+* Initiation au Trager
+
+* Fasciathérapie
+
+* Lomi-atsu
+  </ul>
+  <ul>
+
+* Massage viscéral
+
+* Tissus profonds
+
+* Drainage lymphatique Vodder
+
+* Ventouses thérapeutiques
+
+* Plantes et alcaloïdes
+
+* Cancer du sein et plantes médicinales
+  </ul><\li>
+  </ul>
 
 ## Expériences
 
