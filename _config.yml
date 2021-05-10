@@ -2,6 +2,9 @@
 title: elianelemieux.ca
 timezone: America/New_York
 collections:
+  herboristerie:
+    title: Herboristerie
+    output: true
   massages:
     title: Massages
     output: false
@@ -10,9 +13,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-  herboristerie:
-    title: herboristerie
     output: true
 sass:
   style: compressed
