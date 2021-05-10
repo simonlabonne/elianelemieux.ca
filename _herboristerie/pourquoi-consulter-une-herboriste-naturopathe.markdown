@@ -3,7 +3,7 @@ title: Pourquoi consulter une herboriste-naturopathe
 date: 2021-05-06 18:21:00 -04:00
 ---
 
-## Favoriser l’autonomie et la prévention.
+## Favoriser l’autonomie et la prévention
 
 L’acquisition de connaissances au sujet des saines habitudes de vie et de l’utilisation des plantes médicinales favorise une prise en charge autonome de sa santé et permet d’agir en prévention. Cette implication face à soi amène une meilleure qualité de vie et renforce la confiance en ses capacités.
 
