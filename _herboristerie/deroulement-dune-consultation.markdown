@@ -1,6 +1,7 @@
 ---
 title: Déroulement d’une consultation
 date: 2021-05-06 18:21:00 -04:00
+position: 1
 ---
 
 Une rencontre en herboristerie-naturopathie comprend un questionnaire complet permettant d’observer plusieurs aspects de la vie de la personne qui consulte : santé physique et psychologique, alimentation, mode de vie, activité physique, vie professionnelle et personnelle, etc.
