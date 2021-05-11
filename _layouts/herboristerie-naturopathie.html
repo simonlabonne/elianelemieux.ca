@@ -17,7 +17,8 @@ layout: default
 </nav>
 
 <div class="tab-content" id="nav-tabContent">
-{% for herboristerie in site.herboristerie %}
+    {% assign herbo_liste = site.herboristerie | sort %}
+{% for herboristerie in herbo_liste %}
 <div class="tab-pane fade" id="{{ herboristerie.title | slugify }}" role="tabpanel" aria-labelledby="{{ herboristerie.title | slugify }}-tab">
   {{ herboristerie.content }}
 </div>
