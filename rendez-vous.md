@@ -15,8 +15,6 @@ contact: |-
 
   10574-A (porte de droite), rue De Lille<br>
   Montréal (Québec)  H2B 2R5
-hide_footer: true
-hide_hero: true
 layout: rendez-vous
 ---
 
@@ -34,7 +32,7 @@ Merci de votre compréhension et de votre collaboration !
 
 ## Mesures mises en place durant la pandémie
 
-<img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;">
+<img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;margin-bottom:4rem;">
 
 Des mesures sont mises en place pour assurer la protection de tous.
 * Les lieux en plus de la literie sont nettoyés entre chaque personne;
