@@ -1,7 +1,7 @@
 ---
 title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
-image: "/uploads/dandelion-335662_1920.jpg"
+premiere_image: "/uploads/sage-4516894_1920.jpg"
 contact: |-
   <table class="table table-striped" style="width:100%">
   <tbody><tr>
@@ -27,6 +27,7 @@ contact: |-
   </tbody></table>
   <p>&nbsp;</p>
   <p class="text-secondary"><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></p>
+deuxieme_image: "/uploads/DSC_0265%203.jpeg"
 masso: |-
   <h3>Massothérapie</h3>
 
@@ -54,6 +55,7 @@ masso: |-
   </tbody></table>
 
   <p>Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)</p>
+troisieme_image: "/uploads/dandelion-335662_1920.jpg"
 herbo: |-
   <h3>Herboristerie</h3>
 
