@@ -1,7 +1,7 @@
 ---
 title: Horaire et tarifs
 date: 2021-04-26 16:28:00 -04:00
-image: "/uploads/sage-4516894_1920.jpg"
+image: "/uploads/dandelion-335662_1920.jpg"
 contact: |-
   <table class="table table-striped" style="width:100%">
   <tbody><tr>
@@ -27,75 +27,73 @@ contact: |-
   </tbody></table>
   <p>&nbsp;</p>
   <p class="text-secondary"><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></p>
+masso: |-
+  <h3>Massothérapie</h3>
+
+  <table class="table table-striped">
+  <tbody><tr>
+  <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
+  <td class="has-text-right">100 $</td>
+  </tr>
+  <tr>
+  <td>30 minutes</td>
+  <td class="has-text-right">55 $</td>
+  </tr>
+  <tr>
+  <td>60 minutes</td>
+  <td class="has-text-right">85 $</td>
+  </tr>
+  <tr>
+  <td>75 minutes</td>
+  <td class="has-text-right">100 $</td>
+  </tr>
+  <tr>
+  <td>90 minutes</td>
+  <td class="has-text-right">115 $</td>
+  </tr>
+  </tbody></table>
+
+  <p>Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)</p>
+herbo: |-
+  <h3>Herboristerie</h3>
+
+  <table class="table table-striped">
+  <tbody><tr>
+  <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
+  <td class="has-text-right">145 $</td>
+  </tr>
+  <tr>
+  <td>30 minutes</td>
+  <td class="has-text-right">55 $</td>
+  </tr>
+  <tr>
+  <td>60 minutes</td>
+  <td class="has-text-right">85 $</td>
+  </tr>
+  <tr>
+  <td>75 minutes</td>
+  <td class="has-text-right">100 $</td>
+  </tr>
+  <tr>
+  <td>90 minutes</td>
+  <td class="has-text-right">115 $</td>
+  </tr>
+  </tbody></table>
+
+  <p>Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Association des Naturopathes Professionnels du Québec</a>)</p>
+details: |-
+  ## Détails sur la première rencontre en herboristerie-naturopathie
+
+  D’une durée de 75 à 90 minutes, la première rencontre comprend :
+
+  - Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion;
+  - Diverses recommandations sur l’alimentation et l’hygiène de vie;
+  - Des recommandations au niveau des plantes médicinales et, au besoin, des suppléments à prendre.
+
+  L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
+
+  Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
 layout: horaire-et-tarifs
 ---
 
 <h2>Tarifs<br><small>(taxes incluses dans les prix présentés)</small></h2>
-
-### Massothérapie
-<table class="table table-striped">
-<tbody><tr>
-<td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-<td class="has-text-right">100 $</td>
-</tr>
-<tr>
-<td>30 minutes</td>
-<td class="has-text-right">55 $</td>
-</tr>
-<tr>
-<td>60 minutes</td>
-<td class="has-text-right">85 $</td>
-</tr>
-<tr>
-<td>75 minutes</td>
-<td class="has-text-right">100 $</td>
-</tr>
-<tr>
-<td>90 minutes</td>
-<td class="has-text-right">115 $</td>
-</tr>
-</tbody></table>
-
-Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)
-
-
-
-### Herboristerie
-<table class="table table-striped">
-<tbody><tr>
-<td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-<td class="has-text-right">145 $</td>
-</tr>
-<tr>
-<td>30 minutes</td>
-<td class="has-text-right">55 $</td>
-</tr>
-<tr>
-<td>60 minutes</td>
-<td class="has-text-right">85 $</td>
-</tr>
-<tr>
-<td>75 minutes</td>
-<td class="has-text-right">100 $</td>
-</tr>
-<tr>
-<td>90 minutes</td>
-<td class="has-text-right">115 $</td>
-</tr>
-</tbody></table>
-
-Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Association des Naturopathes Professionnels du Québec</a>)
-
-
-
-## Détails sur la première rencontre en herboristerie-naturopathie
-
-D’une durée de 75 à 90 minutes, la première rencontre comprend :
-
-- Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion;
-- Diverses recommandations sur l’alimentation et l’hygiène de vie;
-- Des recommandations au niveau des plantes médicinales et, au besoin, des suppléments à prendre.
-
-L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
-
-Des préparations personnalisées peuvent généralement être préparées sur place à partir de mon dispensaire. Sinon, les informations nécessaires vous sont données afin que vous puissiez vous procurer ce qu’il faut en magasin.
