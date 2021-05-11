@@ -15,7 +15,8 @@ layout: default
 
 <h2>Types de massages</h2>
 <div class="accordion" id="accordionExample">
-{% for massage in site.massages %}
+{% assign list_massages = site.massages | sort:"position" %}
+{% for massage in list_massages %}
   <div class="card">
     <div class="card-header" id="heading{{ massage.title | slugify }}">
       <h3 class="mb-0">
