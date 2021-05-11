@@ -1,5 +1,5 @@
 ---
-title: Pourquoi consulter une herboriste-naturopathe
+title: Pourquoi choisir l'herboristerie
 date: 2021-05-06 18:21:00 -04:00
 position: 0
 ---
