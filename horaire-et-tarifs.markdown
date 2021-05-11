@@ -55,7 +55,7 @@ masso: |-
   </tbody></table>
 
   <p>Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)</p>
-troisieme_image: "/uploads/dandelion-335662_1920.jpg"
+troisieme_image: "/uploads/yarrow-3468857_1920.jpg"
 herbo: |-
   <h3>Herboristerie</h3>
 
