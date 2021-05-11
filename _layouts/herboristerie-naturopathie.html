@@ -12,7 +12,7 @@ layout: default
 <div class="nav nav-tabs" id="nav-tab" role="tablist">
 {% assign liste_herbo = site.herboristerie | sort:"position" %}
 {% for herboristerie in liste_herbo %}
-    <a class="nav-link" data-toggle="tab" href="#{{ herboristerie.title | slugify }}" role="tab" aria-controls="#{{ herboristerie.title | slugify }}" aria-selected="true">{{ herboristerie.title }}</a>
+    <a class="nav-link" data-toggle="tab" href="#{{ herboristerie.title | slugify }}" role="tab" aria-controls="#{{ herboristerie.title | slugify }}" aria-selected="true"><h2>{{ herboristerie.title }}</h2></a>
 {% endfor %}
 </div>
 </nav>
