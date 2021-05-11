@@ -5,11 +5,6 @@ collections:
   herboristerie:
     title: Herboristerie
     output: false
-    order:
-      - pour-quels-maux-consulter.markdown
-      - efficacite-des-plantes-medicinales.markdown
-      - pourquoi-consulter-une-herboriste-naturopathe.markdown
-      - deroulement-dune-consultation.markdown
   massages:
     title: Massages
     output: false
