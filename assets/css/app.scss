@@ -1,21 +1,13 @@
 ---
 ---
 
-$vert: rgb(146, 159, 133);
-$vertf: rgb(96, 102, 85);
-
-$fusion: rgb(54, 102, 106);
-$bleu: rgb(94, 142, 142);
-$oslo: rgb(72, 91, 97);
-
-$etain: #4b5756;
+$vert: #3c5d4f;
+$vertf: #283e35;
 $noir: #000;
-
 $jaune: #c3a078;
 $jaunef: #a28c44;
 
 $primary: $vert;
-$link: $jaune;
 $body-color: $noir;
 
 @import "main";
@@ -116,7 +108,7 @@ li {
 
 .navbar-nav {
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 15px;
 }
 
