@@ -30,6 +30,10 @@ a {
   color: $jaune;
 }
 
+li::marker {
+    color: $jaune;
+}
+
 .text-secondary {
     color: #8c8c8c;
 }
