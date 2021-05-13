@@ -14,7 +14,7 @@ intro: |-
   <p>Le mariage de ces deux médecines permet de travailler selon les principes de la naturopathie tout en ayant les connaissances et le savoir-faire de l’herboriste qui est en mesure de suggérer et préparer des mélanges de plantes personnalisés et adaptés aux besoins des personnes qui consultent.</p>
 
   <p>L’objectif de l'herboriste-naturopathe est de soulager les symptômes sans épuiser le système, de travailler sur la source du problème de santé en ciblant les déséquilibres présents et de faire un travail de fond en nourrissant et en fortifiant l’organisme de façon globale.</p>
-image: "/uploads/mallow-5324571_1920.jpg"
+image: "/uploads/DSC_0002.jpeg"
 layout: herboristerie-naturopathie
 ---
 
