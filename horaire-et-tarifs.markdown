@@ -25,8 +25,7 @@ contact: |-
   <td>9 h à 14 h 30</td>
   </tr>
   </tbody></table>
-  <p>&nbsp;</p>
-  <p class="text-secondary"><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></p>
+  <p class="text-secondary"><small><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></small></p>
 deuxieme_image: "/uploads/DSC_0265%203.jpeg"
 masso: |-
   <h3>Massothérapie</h3>
