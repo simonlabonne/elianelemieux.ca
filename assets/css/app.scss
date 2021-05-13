@@ -22,7 +22,7 @@ $body-color: $noir;
 
 // @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
 
 html {
     font-size: 18px;
@@ -31,7 +31,7 @@ html {
 body {
     background-color: #f9f9f9;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .navbar {
