@@ -98,4 +98,4 @@ details: |-
 layout: horaire-et-tarifs
 ---
 
-<h2>Tarifs<br><small>(taxes incluses dans les prix présentés)</small></h2>
+<h2>Tarifs<br><small><small>(taxes incluses dans les prix présentés)</small></small></h2>
