@@ -30,6 +30,8 @@ Dans une situation où vous ne pouvez vous présenter pour une raison inattendue
 
 Merci de votre compréhension et de votre collaboration !
 
+<p>&nbsp</p>
+
 ## Mesures mises en place durant la pandémie
 
 <img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;margin-bottom:4rem;">
