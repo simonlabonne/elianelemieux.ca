@@ -11,7 +11,7 @@ $oslo: rgb(72, 91, 97);
 $etain: #4b5756;
 $noir: #000;
 
-$primary: $noir;
+$primary: $vert;
 $link: $vert;
 $body-color: $noir;
 
@@ -132,4 +132,8 @@ li {
 
 p:last-child {
     margin-bottom: 0;
+}
+
+.btn-link {
+    color: $noir;
 }
