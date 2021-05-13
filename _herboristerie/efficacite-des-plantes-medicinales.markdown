@@ -3,7 +3,7 @@ title: Efficacité des plantes médicinales
 date: 2021-05-10 20:48:00 -04:00
 ---
 
-Les plantes médicinales contiennent des principes actifs étudiés et utilisés scientifiquement.
+Les plantes médicinales sont riches de plusieurs composantes et principes actifs. En travaillant avec la plante entière, l’organisme peut profiter de cette synergie et de ses multiples effets. Des études scientifiques ont d’ailleurs corroboré le fait que l’utilisation d’une plante entière est souvent plus efficace qu’un principe actif isolé et synthétisé.
 
 Certains aspects sont cependant à considérer afin de pouvoir bénéficier des bienfaits des plantes et obtenir des résultats satisfaisants en toute sécurité :
 
@@ -13,7 +13,3 @@ Certains aspects sont cependant à considérer afin de pouvoir bénéficier des 
 * Une démarche en santé holistique implique généralement des changements dans certains aspects de l’hygiène de vie. Il faut parfois du temps, de la patience et de la persévérance pour apprécier les bienfaits pouvant apparaitre de façon graduelle. Ce processus optimise la santé de façon durable en ne provoquant que peu ou pas d’effets secondaires;
 * La constance et la régularité dans l’application des recommandations est nécessaire à l’obtention de résultats satisfaisants;
 * Les résultats peuvent être ressentis en quelques jours ou plus graduellement (quelques semaines) selon qu’il s’agisse d’un problème ponctuel ou chronique.
-
-### Bénéficier de la synergie des composantes des plantes
-
-Chaque plante est riche de plusieurs composantes et propriétés. En travaillant avec celles-ci, l’organisme peut profiter de cette synergie et de ses multiples effets. Des études scientifiques ont d’ailleurs corroboré le fait que l’utilisation d’une plante entière est souvent plus efficace qu’un principe actif isolé et synthétisé.
