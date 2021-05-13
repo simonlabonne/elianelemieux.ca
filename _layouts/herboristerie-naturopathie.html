@@ -8,20 +8,24 @@ layout: default
 
 {{ page.intro }}
 
-<nav>
-<div class="nav nav-tabs" id="nav-tab" role="tablist">
-{% assign liste_herbo = site.herboristerie | sort:"position" %}
-{% for herboristerie in liste_herbo %}
-    <a class="nav-link" data-toggle="tab" href="#{{ herboristerie.title | slugify }}" role="tab" aria-controls="#{{ herboristerie.title | slugify }}" aria-selected="true"><h2>{{ herboristerie.title }}</h2></a>
-{% endfor %}
-</div>
-</nav>
-
-<div class="tab-content" id="nav-tabContent">
-{% for herboristerie in liste_herbo %}
-<div class="tab-pane fade" id="{{ herboristerie.title | slugify }}" role="tabpanel" aria-labelledby="{{ herboristerie.title | slugify }}-tab">
-  {{ herboristerie.content }}
-</div>
+<h2>En savoir plus</h2>
+<div class="accordion" id="accordionExample">
+{% assign list_herbo = site.herboristerie | sort:"position" %}
+{% for herbo in list_herbo %}
+  <div class="card">
+    <div class="card-header" id="heading{{ herbo.title | slugify }}">
+      <h3 class="mb-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse{{ herbo.title | slugify }}" aria-expanded="true" aria-controls="collapse{{ herbo.title | slugify }}">
+          <i class="fa fa-chevron-down"></i> {{ herbo.title }}
+        </button>
+      </h3>
+    </div>
+    <div id="collapse{{ herbo.title | slugify }}" class="collapse" aria-labelledby="heading{{ herbo.title | slugify }}" data-parent="#accordionExample">
+      <div class="card-body">
+        {{ herbo.content }}
+      </div>
+    </div>
+  </div>
 {% endfor %}
 </div>
 
