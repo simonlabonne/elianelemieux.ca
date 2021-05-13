@@ -28,6 +28,9 @@ body {
 
 a {
   color: $jaune;
+    &:hover {
+        color: $jaunef;
+    }
 }
 
 li::marker {
