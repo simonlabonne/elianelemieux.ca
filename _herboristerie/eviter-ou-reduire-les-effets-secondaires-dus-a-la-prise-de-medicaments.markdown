@@ -1,5 +1,5 @@
 ---
-title: Éviter ou réduire les effets secondaires dus à la prise de médicaments
+title: Éviter ou réduire les effets secondaires des médicaments
 date: 2021-05-13 13:57:00 -04:00
 ---
 
