@@ -48,7 +48,7 @@ formations: |+
 experiences: |-
   ## Expériences
 
-          Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
+  Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail et lors d’événements.
 collaborations: |-
   ## Collaborations et référencement
 
