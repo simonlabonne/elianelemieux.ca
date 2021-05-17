@@ -97,4 +97,4 @@ details: |-
 layout: horaire-et-tarifs
 ---
 
-<h2>Tarifs<br><span class="h6">(taxes incluses dans les prix présentés)</span></h2>
+<h2>Tarifs<br><span class="h5">(taxes incluses dans les prix présentés)</span></h2>
