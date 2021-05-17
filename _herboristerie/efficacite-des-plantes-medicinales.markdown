@@ -1,5 +1,5 @@
 ---
-title: Efficacité des plantes médicinales
+title: Quelle est l'efficacité des plantes médicinales ?
 date: 2021-05-10 20:48:00 -04:00
 ---
 
