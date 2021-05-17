@@ -1,17 +1,18 @@
 ---
 ---
 
-$vert: #495443;
-$vertf: #2c3329;
+// $vert: #495443;
+// $vertf: #2c3329;
 
-$vert: #506B50;
-$vertf: #2a382a;
+// $vert: #506B50;
+// $vertf: #2a382a;
 
-$vert: #50594e;
-$vertf: #292e28;
+// $vert: #50594e;
+// $vertf: #292e28;
 
 $vert: #445341;
 $vertf: #2d362b;
+$vertp: #738c6e;
 
 $noir: #000;
 $jaune: #c3a078;
@@ -169,7 +170,7 @@ p:last-child {
 }
 
 .btn-link {
-    color: $vert;
+    color: $vertp;
 }
 
 .accordion .fa {
