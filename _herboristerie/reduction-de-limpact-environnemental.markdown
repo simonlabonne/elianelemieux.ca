@@ -3,7 +3,7 @@ title: Réduction de l’impact environnemental
 date: 2021-05-13 13:57:00 -04:00
 ---
 
-Choisir une approche naturelle pour optimiser sa santé comporte de nombreux bienfaits autant pour notre propre santé que celle de l'environnement.
+Choisir une approche naturelle pour optimiser sa santé comporte de nombreux bienfaits autant pour notre propre santé que pour l'environnement.
 
 L’utilisation des médicaments, telle qu’elle s’effectue aujourd’hui dans plusieurs sociétés, engendre une suite de conséquences dont les impacts perturbent de façon préoccupante la biodiversité.
 
