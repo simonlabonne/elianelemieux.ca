@@ -17,3 +17,5 @@ collections:
 sass:
   style: compressed
   source_dir: _sass
+vert1_color: "#292e28"
+vert2_color: "#1a2618"
