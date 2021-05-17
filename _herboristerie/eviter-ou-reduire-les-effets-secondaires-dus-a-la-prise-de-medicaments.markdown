@@ -1,5 +1,5 @@
 ---
-title: L'herboristerie peut aider à éviter ou réduire les effets secondaires des médicaments
+title: L'herboristerie pour éviter ou réduire les effets secondaires des médicaments
 date: 2021-05-13 13:57:00 -04:00
 ---
 
