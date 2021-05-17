@@ -37,6 +37,10 @@ a {
     }
 }
 
+small, .small {
+    font-size: 90%;
+}
+
 li::marker {
     color: $jaune;
 }
