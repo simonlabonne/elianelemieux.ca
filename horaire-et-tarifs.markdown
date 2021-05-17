@@ -53,7 +53,7 @@ masso: |-
   </tr>
   </tbody></table>
 
-  <p>Reçus en massothérapie ou kinésithérapie (<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)</p>
+  <p>Reçus en massothérapie ou kinésithérapie <br>(<a href="https://www.fqm.qc.ca/" target="_blank">Fédération québécoise des massothérapeutes</a>)</p>
 troisieme_image: "/uploads/yarrow-3468857_1920.jpg"
 herbo: |-
   <h3>Herboristerie</h3>
@@ -81,7 +81,7 @@ herbo: |-
   </tr>
   </tbody></table>
 
-  <p>Reçu en naturopathie (<a href="https://www.anpq.qc.ca/" target="_blank">Association des Naturopathes Professionnels du Québec</a>)</p>
+  <p>Reçu en naturopathie <br>(<a href="https://www.anpq.qc.ca/" target="_blank">Association des Naturopathes Professionnels du Québec</a>)</p>
 details: |-
   ## Détails sur la première rencontre en herboristerie-naturopathie
 
