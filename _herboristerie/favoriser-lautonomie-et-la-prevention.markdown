@@ -1,5 +1,5 @@
 ---
-title: Favoriser l’autonomie et la prévention
+title: Une approche qui favorise l’autonomie et la prévention
 date: 2021-05-13 13:58:00 -04:00
 ---
 
