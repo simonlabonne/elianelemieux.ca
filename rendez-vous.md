@@ -30,8 +30,6 @@ politique: |-
 mesures: |-
   ## Mesures mises en place durant la pandémie
 
-  <img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;margin-bottom:4rem;">
-
   Des mesures sont mises en place pour assurer la protection de tous.
   * Les lieux en plus de la literie sont nettoyés entre chaque personne;
   * Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
