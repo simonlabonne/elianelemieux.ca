@@ -9,7 +9,8 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
   santé et au mieux-être.\n\nJe pratique à mon bureau privé, dans une ambiance professionnelle,
   calme et chaleureuse."
 image: "/uploads/1er%20choix%20-ec713e.jpeg"
-formations: |+
+formations: |-
+  <div style="text-align:center;">
   <h2>Formations</h2>
 
   <p>Plus de 4000 heures de formation :</p>
@@ -44,7 +45,7 @@ formations: |+
   </div>
   </li>
   </ul>
-
+  </div>
 experiences: |-
   ## Expériences
 
