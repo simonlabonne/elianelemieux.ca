@@ -15,33 +15,37 @@ contact: |-
 
   10574-A (porte de droite), rue De Lille<br>
   Montréal (Québec)  H2B 2R5
+politique: |-
+  ## Politique d’annulation
+
+  Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important.
+
+  Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
+
+  Les annulations faites à moins de 24h d’avis occasionneront des frais de 50$. Si vous ne vous présentez pas à votre rendez-vous, vous devrez assumer la totalité des frais de la séance.
+
+  Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
+
+  Merci de votre compréhension et de votre collaboration !
+mesures: |-
+  ## Mesures mises en place durant la pandémie
+
+  <img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;margin-bottom:4rem;">
+
+  Des mesures sont mises en place pour assurer la protection de tous.
+  * Les lieux en plus de la literie sont nettoyés entre chaque personne;
+  * Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
+  * Du savon à main sans rinçage est à votre disposition ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
+  * Le port du masque de procédure médicale est obligatoire durant toute la rencontre. Il vous est fourni au besoin.
+mesures_image: "/uploads/PB062232%202.jpeg"
 layout: rendez-vous
 ---
 
-## Politique d’annulation
-
-Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important.
-
-Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
-
-Les annulations faites à moins de 24h d’avis occasionneront des frais de 50$. Si vous ne vous présentez pas à votre rendez-vous, vous devrez assumer la totalité des frais de la séance.
-
-Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
-
-Merci de votre compréhension et de votre collaboration !
 
 
 
-<p>&nbsp;</p>
+
+
 
   
 
-## Mesures mises en place durant la pandémie
-
-<img src="/uploads/PB062232%202.jpeg" style="width:330px; float:right; padding-left:2rem;margin-bottom:4rem;">
-
-Des mesures sont mises en place pour assurer la protection de tous.
-* Les lieux en plus de la literie sont nettoyés entre chaque personne;
-* Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
-* Du savon à main sans rinçage est à votre disposition ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
-* Le port du masque de procédure médicale est obligatoire durant toute la rencontre. Il vous est fourni au besoin.
