@@ -11,7 +11,7 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
 image: "/uploads/1er%20choix%20-ec713e.jpeg"
 formations: |-
   <div class="row align-items-center justify-content-md-center">
-  <div class="col-10">
+  <div class="col-sm-8">
   <h2>Formations</h2>
 
   <p>Plus de 4000 heures de formation :</p>
@@ -22,7 +22,7 @@ formations: |-
   <li>
   Formation continue depuis mes débuts :
   <br><br>
-  <div class="row">
+  <div class="row align-items-center justify-content-md-center">
   <div class="col-sm">
   <ul>
   <li>Massages pour femmes enceintes</li>
