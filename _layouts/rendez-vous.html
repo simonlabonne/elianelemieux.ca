@@ -15,4 +15,13 @@ layout: default
   </div>
 </div>
 <br>
-{{ content }}
+{{ page.politique | markdownify }}
+<p>&nbsp;</p>
+<div class="row align-items-center justify-content-md-center">
+  <div class="col-sm-4 order-md-12">
+    <img src="{{ page.mesures_image }}">
+  </div>
+  <div class="col-sm-6 order-md-1">
+    {{ page.mesures | markdownify }}
+  </div>
+</div>
