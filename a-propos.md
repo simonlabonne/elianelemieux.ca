@@ -10,7 +10,8 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
   calme et chaleureuse."
 image: "/uploads/1er%20choix%20-ec713e.jpeg"
 formations: |-
-  <div style="text-align:center;">
+  <div class="row align-items-center justify-content-md-center">
+  <div class="col-10">
   <h2>Formations</h2>
 
   <p>Plus de 4000 heures de formation :</p>
@@ -45,6 +46,7 @@ formations: |-
   </div>
   </li>
   </ul>
+  </div>
   </div>
 experiences: |-
   ## Expériences
