@@ -9,10 +9,10 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
   santé et au mieux-être.\n\nJe pratique à mon bureau privé, dans une ambiance professionnelle,
   calme et chaleureuse."
 image: "/uploads/1er%20choix%20-ec713e.jpeg"
-formations: |+
-  <h2>Formations</h2>
+formations: |2+
+       <h2>Formations</h2>
 
-  <p>Plus de 4000 heures de formation :</p>
+       <p>Plus de 4000 heures de formation :</p>
 
   <ul>
   <li>Diplôme en <a href="/massotherapie">masso-kinésithérapie</a> (Formation chez <a href="https://www.kineconcept.com/fr/" target="_blank">Kiné-Concept</a>)</li>
