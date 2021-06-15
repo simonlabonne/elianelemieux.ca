@@ -1,6 +1,6 @@
 ---
 title: Prendre rendez-vous
-image: "/uploads/lavender-5303148_1920.jpg"
+image: "/uploads/mallow-5324571_1920.jpg"
 map: |-
   <div class="columns">
   <div class="column is-one-quarter">
