@@ -33,23 +33,23 @@ masso: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">100&nbsp;$</td>
+  <td class="has-text-right">105&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">55&nbsp;$</td>
+  <td class="has-text-right">60&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">85&nbsp;$</td>
+  <td class="has-text-right">90&nbsp;$</td>
   </tr>
   <tr>
   <td>75 minutes</td>
-  <td class="has-text-right">100&nbsp;$</td>
+  <td class="has-text-right">105&nbsp;$</td>
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">115&nbsp;$</td>
+  <td class="has-text-right">120&nbsp;$</td>
   </tr>
   </tbody></table>
 
@@ -61,23 +61,23 @@ herbo: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">145&nbsp;$</td>
+  <td class="has-text-right">150&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">55&nbsp;$</td>
+  <td class="has-text-right">60&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">85&nbsp;$</td>
+  <td class="has-text-right">90&nbsp;$</td>
   </tr>
   <tr>
   <td>75 minutes</td>
-  <td class="has-text-right">100&nbsp;$</td>
+  <td class="has-text-right">105&nbsp;$</td>
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">115&nbsp;$</td>
+  <td class="has-text-right">120&nbsp;$</td>
   </tr>
   </tbody></table>
 
@@ -85,11 +85,9 @@ herbo: |-
 details: |-
   ## Détails sur la première rencontre en herboristerie-naturopathie
 
-  D’une durée de 75 à 90 minutes, la première rencontre comprend :
+  - Un questionnaire exhaustif vous est d'abord envoyé par courriel. Il faut prévoir environ 60 minutes pour remplir ce document avant de me le renvoyer au plus tard 2 jours avant la rencontre. Ceci me permet de prendre connaissance du dossier, de débuter ma réflexion et d'aller chercher l'information nécessaire afin d'être bien préparée.
 
-  - Un questionnaire exhaustif à remplir et à m’envoyer quelques jours avant la rencontre afin que je puisse en prendre connaissance et débuter ma réflexion;
-  - Diverses recommandations sur l’alimentation et l’hygiène de vie;
-  - Des recommandations au niveau des plantes médicinales et, au besoin, des suppléments à prendre.
+  - Lors de la rencontre d'une durée de 75-90 minutes, je vous propose diverses recommandations sur l’alimentation et l’hygiène de vie ainsi que sur des plantes médicinales et, au besoin, des suppléments à prendre. Afin de respecter le rythme de chaque personne, un plan d'intégration des recommandations est proposé.
 
   L’utilisation des plantes médicinales dans ma pratique se fait principalement sous forme de concentrés liquides, d’infusions, de poudres, d’onguents, d’huiles et d’huiles essentielles.
 
