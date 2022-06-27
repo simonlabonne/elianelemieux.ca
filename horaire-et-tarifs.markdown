@@ -33,7 +33,7 @@ masso: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">105&nbsp;$</td>
+  <td class="has-text-right">110&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
