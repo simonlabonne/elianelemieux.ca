@@ -33,23 +33,23 @@ masso: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">110&nbsp;$</td>
+  <td class="has-text-right">115&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">65&nbsp;$</td>
+  <td class="has-text-right">70&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">95&nbsp;$</td>
+  <td class="has-text-right">100&nbsp;$</td>
   </tr>
   <tr>
   <td>75 minutes</td>
-  <td class="has-text-right">110&nbsp;$</td>
+  <td class="has-text-right">115&nbsp;$</td>
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">125&nbsp;$</td>
+  <td class="has-text-right">130&nbsp;$</td>
   </tr>
   </tbody></table>
 
@@ -61,23 +61,23 @@ herbo: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">155&nbsp;$</td>
+  <td class="has-text-right">160&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">65&nbsp;$</td>
+  <td class="has-text-right">70&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">95&nbsp;$</td>
+  <td class="has-text-right">100&nbsp;$</td>
   </tr>
   <tr>
   <td>75 minutes</td>
-  <td class="has-text-right">110&nbsp;$</td>
+  <td class="has-text-right">115&nbsp;$</td>
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">125&nbsp;$</td>
+  <td class="has-text-right">130&nbsp;$</td>
   </tr>
   </tbody></table>
 
