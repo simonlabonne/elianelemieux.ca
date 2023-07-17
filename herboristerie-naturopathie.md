@@ -3,7 +3,7 @@ title: Herboristerie-naturopathie
 hide_footer: true
 hide_hero: true
 a_noter: Une consultation en herboristerie-naturopathie ne remplace en aucun cas un
-  diagnostique médical ni n'encourage l'arrêt de traitement médicaux.
+  diagnostique médical ni n'encourage l'arrêt de traitement médicaux
 intro: |-
   <p>L’herboristerie est une médecine traditionnelle et complémentaire utilisant les plantes, les arbres et les champignons médicinaux pour soutenir et retrouver la santé. Ces végétaux sont utilisés sous différentes formes: teintures-mère, vinaigres médicinaux, infusions, décoctions, poudres, huiles, onguents, sirops, cataplasmes,etc.</p>
 
