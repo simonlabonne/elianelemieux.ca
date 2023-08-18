@@ -8,7 +8,7 @@ intro: "Thérapeute depuis 2001, j’accompagne et conseille une clientèle vari
   je porte attention à divers aspects et détails pouvant optimiser le retour à la
   santé et au mieux-être.\n\nJe pratique à mon bureau privé, dans une ambiance professionnelle,
   calme et chaleureuse."
-image: "/uploads/1er%20choix%20-ec713e.jpeg"
+image: "/uploads/1er%20choix%20.jpeg"
 formations: |-
   <div class="row align-items-center justify-content-md-center">
   <div class="col-sm-8">
