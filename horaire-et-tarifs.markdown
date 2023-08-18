@@ -6,23 +6,23 @@ contact: |-
   <table class="table table-striped" style="width:100%">
   <tbody><tr>
   <td>Lundi</td>
-  <td>9 h à 14 h 30</td>
+  <td>8 h 30 à 12 h</td>
   </tr>
   <tr>
   <td>Mardi</td>
-  <td>11 h à 19 h</td>
+  <td>12 h 30 à 18 h 30</td>
   </tr>
   <tr>
   <td>Mercredi</td>
-  <td>11 h à 19 h</td>
+  <td>13 h 30 à 18 h 30</td>
   </tr>
   <tr>
   <td>Jeudi</td>
-  <td>10 h 30 à 14 h</td>
+  <td>Aucun RDV pour l'automne 2023</td>
   </tr>
   <tr>
   <td>Vendredi</td>
-  <td>9 h à 14 h 30</td>
+  <td>11 h 30 à 14 h 30</td>
   </tr>
   </tbody></table>
   <p class="text-secondary"><small><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></small></p>
