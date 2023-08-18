@@ -18,7 +18,7 @@ contact: |-
   </tr>
   <tr>
   <td>Jeudi</td>
-  <td>Aucun RDV</td>
+  <td>Aucun rdv pour l'automne 2023</td>
   </tr>
   <tr>
   <td>Vendredi</td>
