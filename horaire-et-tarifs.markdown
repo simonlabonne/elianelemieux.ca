@@ -14,15 +14,15 @@ contact: |-
   </tr>
   <tr>
   <td>Mercredi</td>
-  <td>13 h 30 à 18 h 30</td>
+  <td>12 h 30 à 18 h 30</td>
   </tr>
   <tr>
   <td>Jeudi</td>
-  <td>Aucun rdv pour l'automne 2023</td>
+  <td>Aucun rdv pour l'automne 2024</td>
   </tr>
   <tr>
   <td>Vendredi</td>
-  <td>11 h 30 à 14 h 30</td>
+  <td>Aucun rdv pour l'automne 2024</td>
   </tr>
   </tbody></table>
   <p class="text-secondary"><small><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></small></p>
@@ -49,7 +49,7 @@ masso: |-
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">130&nbsp;$</td>
+  <td class="has-text-right">135&nbsp;$</td>
   </tr>
   </tbody></table>
 
