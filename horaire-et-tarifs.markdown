@@ -61,7 +61,7 @@ herbo: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">160&nbsp;$</td>
+  <td class="has-text-right">165&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
@@ -77,7 +77,7 @@ herbo: |-
   </tr>
   <tr>
   <td>90 minutes</td>
-  <td class="has-text-right">130&nbsp;$</td>
+  <td class="has-text-right">135&nbsp;$</td>
   </tr>
   </tbody></table>
 
