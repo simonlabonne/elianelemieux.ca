@@ -6,7 +6,7 @@ contact: |-
   <table class="table table-striped" style="width:100%">
   <tbody><tr>
   <td>Lundi</td>
-  <td>8 h 30 à 12 h</td>
+  <td>9 h à 12 h</td>
   </tr>
   <tr>
   <td>Mardi</td>
@@ -18,11 +18,11 @@ contact: |-
   </tr>
   <tr>
   <td>Jeudi</td>
-  <td>Aucun rdv pour l'automne 2024</td>
+  <td>9 h à 14 h</td>
   </tr>
   <tr>
   <td>Vendredi</td>
-  <td>Aucun rdv pour l'automne 2024</td>
+  <td>9 h à 15 h</td>
   </tr>
   </tbody></table>
   <p class="text-secondary"><small><em>Je ne prends malheureusement plus de nouvelles personnes pour les rendez-vous en soirée.</em></small></p>
@@ -37,19 +37,19 @@ masso: |-
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">70&nbsp;$</td>
+  <td class="has-text-right">85&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">100&nbsp;$</td>
-  </tr>
-  <tr>
-  <td>75 minutes</td>
   <td class="has-text-right">115&nbsp;$</td>
   </tr>
   <tr>
-  <td>90 minutes</td>
+  <td>75 minutes</td>
   <td class="has-text-right">135&nbsp;$</td>
+  </tr>
+  <tr>
+  <td>90 minutes</td>
+  <td class="has-text-right">155&nbsp;$</td>
   </tr>
   </tbody></table>
 
@@ -61,23 +61,23 @@ herbo: |-
   <table class="table table-striped">
   <tbody><tr>
   <td>1<sup>re</sup> rencontre, ouverture de dossier</td>
-  <td class="has-text-right">165&nbsp;$</td>
+  <td class="has-text-right">195&nbsp;$</td>
   </tr>
   <tr>
   <td>30 minutes</td>
-  <td class="has-text-right">70&nbsp;$</td>
+  <td class="has-text-right">85&nbsp;$</td>
   </tr>
   <tr>
   <td>60 minutes</td>
-  <td class="has-text-right">100&nbsp;$</td>
-  </tr>
-  <tr>
-  <td>75 minutes</td>
   <td class="has-text-right">115&nbsp;$</td>
   </tr>
   <tr>
-  <td>90 minutes</td>
+  <td>75 minutes</td>
   <td class="has-text-right">135&nbsp;$</td>
+  </tr>
+  <tr>
+  <td>90 minutes</td>
+  <td class="has-text-right">155&nbsp;$</td>
   </tr>
   </tbody></table>
 
