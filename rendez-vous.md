@@ -9,12 +9,10 @@ map: |-
   </figure>
   </div>
   </div>
-contact: |-
-  Par téléphone : <a href="tel:514-299-3617">514 299-3617</a><br>
-  Par courriel : <a href="mailto:info@elianelemieux.ca">info@elianelemieux.ca</a>
-
-  10574-A (porte de droite), rue De Lille<br>
-  Montréal (Québec)  H2B 2R5
+contact: "Par téléphone : <a href=\"tel:514-299-3617\">514 299-3617</a><br>\nPar courriel
+  : <a href=\"mailto:info@elianelemieux.ca\">info@elianelemieux.ca</a>\n\nJe pratique
+  à Ahuntsic-Cartierville sur la rue de Lille dans mon bureau à domicile. \nL'adresse
+  exacte vous sera communiquée lors de la prise de rdv.<br>"
 politique: |-
   ## Politique d’annulation
 
@@ -27,15 +25,6 @@ politique: |-
   Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
 
   Merci de votre compréhension et de votre collaboration !
-mesures: |-
-  ## Mesures mises en place durant la pandémie
-
-  Des mesures sont mises en place pour assurer la protection de tous.
-  * Les lieux en plus de la literie sont nettoyés entre chaque personne;
-  * Le temps prévu entre les rendez-vous permet de nettoyer et d’aérer l’espace adéquatement;
-  * Du savon à main sans rinçage est à votre disposition ou vous avez accès à la salle de bain pour laver vos mains au lavabo selon votre préférence.
-  * Le port du masque de procédure médicale est obligatoire durant toute la rencontre. Il vous est fourni au besoin.
-mesures_image: "/uploads/PB062232%202.jpeg"
 layout: rendez-vous
 ---
 
