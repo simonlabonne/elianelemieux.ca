@@ -17,8 +17,8 @@ formations: |-
   <p>Plus de 4000 heures de formation :</p>
 
   <ul>
-  <li>Diplôme en <a href="/massotherapie">masso-kinésithérapie</a> (Formation chez <a href="https://www.kineconcept.com/fr/" target="_blank">Kiné-Concept</a>)</li>
-  <li>Diplôme en <a href="/herboristerie-naturopathie">herboristerie-naturopathie</a> (Formation de thérapeute à l’<a href="https://herbotheque.com/" target="_blank">Herbothèque</a>)</li>
+  <li>Diplôme en <a href="/massotherapie">masso-kinésithérapie</a></li>
+  <li>Diplôme en herboristerie-naturopathie</li>
   <li>
   Formation continue depuis mes débuts :
   <br><br>
