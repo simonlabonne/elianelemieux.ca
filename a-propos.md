@@ -14,9 +14,10 @@ formations: |-
   <div class="col-sm-8">
   <h2>Formations</h2>
 
-  <p>Plus de 4000 heures de formation :</p>
+  <p>Plus de 6000 heures de formation :</p>
 
   <ul>
+  <li>Diplôme d’études collégiales en acupuncture (DEC technique) - Cégep de Rosemont</li>
   <li>Diplôme en <a href="/massotherapie">masso-kinésithérapie</a></li>
   <li>Diplôme en herboristerie-naturopathie</li>
   <li>
