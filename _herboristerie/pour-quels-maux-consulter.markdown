@@ -18,4 +18,4 @@ En plus de proposer divers outils permettant d’optimiser la santé globale, l�
 * Douleurs musculaires et articulaires;
 * Et plus encore…
 
-Un suivi médical demeure nécessaire pour établir un diagnostique.
+Un suivi médical demeure nécessaire pour établir un diagnostic.
