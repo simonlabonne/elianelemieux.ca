@@ -12,7 +12,7 @@ politique: |-
 
   Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
 
-  Les annulations faites à moins de 24h d’avis occasionneront des frais de 60$. Si vous ne vous présentez pas à votre rendez-vous, vous devrez assumer la totalité des frais de la séance.
+  Les annulations faites entre 24h et 12h d’avis occasionneront des frais de 60% du montant de la séance prévue à l'horaire. À moins de 12h d'avis, la totalité du montant prévu pour la séance sera demandée.
 
   Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
 
