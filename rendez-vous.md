@@ -2,7 +2,10 @@
 title: Prendre rendez-vous
 image: "/uploads/flower-4271835_1920.jpg"
 contact: "Par téléphone : <a href=\"tel:514-299-3617\">514 299-3617</a><br>\nPar courriel
-  : <a href=\"mailto:info@elianelemieux.ca\">info@elianelemieux.ca</a>\n\nJe pratique
+  : <a href=\"mailto:info@elianelemieux.ca\">info@elianelemieux.ca</a>
+  <a href=\"https://www.gorendezvous.com/elianelemieux?companyId=141705\" target=\"_blank\">Par GOrendezvous</a>
+  \n\n
+  Je pratique
   à Ahuntsic-Cartierville sur la rue de Lille dans mon bureau annexé à mon domicile.
   \nL'adresse exacte vous sera communiquée lors de la prise de rdv.<br>"
 politique: |-
