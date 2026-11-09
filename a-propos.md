@@ -14,14 +14,14 @@ formations: |-
   <div class="col-sm-8">
   <h2>Formations</h2>
 
-  <p>Plus de 6000 heures de formation :</p>
+  <p>Plus de 6000 heures de formation en médecines alternatives:</p>
 
   <ul>
   <li>Diplôme en <a href="/massotherapie">masso-kinésithérapie</a></li>
   <li>Diplôme en herboristerie-naturopathie</li>
   <li>Diplôme en acupuncture (DEC technique) - Cégep de Rosemont</li>
   <li>
-  Formation continue depuis mes débuts :
+  Formation continue en massothérapie :
   <br><br>
   <div class="row align-items-center justify-content-md-center">
   <div class="col-sm">
