@@ -21,6 +21,7 @@ formations: |-
   <li>Diplôme en herboristerie-naturopathie</li>
   <li>Diplôme en acupuncture (DEC technique) - Cégep de Rosemont</li>
   <li>
+
   Formation continue en massothérapie :
   <br><br>
   <div class="row align-items-center justify-content-md-center">
