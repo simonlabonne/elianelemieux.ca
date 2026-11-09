@@ -13,7 +13,7 @@ politique: |-
 
   Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
 
-  FRAIS D'ANNULATION:
+  FRAIS D'ANNULATION :
 
   Entre 24h et 12h d'avis : 60$
 
