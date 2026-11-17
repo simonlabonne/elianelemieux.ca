@@ -1,19 +1,14 @@
 ---
 title: Massothérapie
-image: "/uploads/DSC_0284%204.jpeg"
+image2: "/uploads/DSC_0284%204.jpeg"
 texte2: |-
   Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
 
   J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
+image1: 
 layout: massotherapie
 ---
 
-
-# Massothérapie
-
-![PB062237.jpg](/uploads/PB062237.jpg)
-
-<br>
 La massothérapie est une thérapie par le toucher ayant une action bénéfique tant au niveau physique que psychique.
 Elle est profitable autant en prévention que pour maintenir l’équilibre ou pour aider à rétablir un déséquilibre (douleurs ou tensions musculaires, perte d’amplitude de mouvement, stress, etc.).
 
