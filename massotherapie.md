@@ -1,11 +1,11 @@
 ---
 title: Massothérapie
-image2: "/uploads/DSC_0284%204.jpeg"
+premiere_image: "/uploads/PB062237.jpg"
 texte2: |-
   Mon expérience professionnelle ainsi que les outils acquis au fil des années me permettent d’adapter le massage selon les besoins de chacun.e et de faire des recommandations diverses selon les observations.
 
   J’opte généralement pour une approche mixte à moins d’une demande spécifique quant à l’utilisation d’une technique en particulier.
-image1: 
+deuxieme_image: "/uploads/DSC_0284%204.jpeg"
 layout: massotherapie
 ---
 
