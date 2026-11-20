@@ -1,6 +1,6 @@
 ---
 title: Prendre rendez-vous
-image: "/uploads/flower-4271835_1920.jpg"
+image: "/uploads/mint-3668345_1920.jpg"
 contact: "<a class=\"btn btn-primary btn-lg\" href=\"https://www.gorendezvous.com/elianelemieux?companyId=141705\"
   target=\"_blank\">Par GOrendezvous</a> \n\nPar téléphone : <a href=\"tel:514-299-3617\">514
   299-3617</a><br>\n\nPar courriel : <a href=\"mailto:info@elianelemieux.ca\">info@elianelemieux.ca</a><br>\n\n
